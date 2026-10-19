@@ -1,0 +1,27 @@
+{
+  "textures": [
+    {
+      "image": "FX_Sphere_01_0.png",
+      "format": "RGBA8888",
+      "size": {"w": 183, "h": 2270},
+      "scale": 1,
+      "frames": [
+        {"filename": "charge_E_0", "frame": {"x": 1, "y": 741, "w": 156, "h": 158}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 15, "y": 15, "w": 156, "h": 158}, "sourceSize": {"w": 186, "h": 188}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "charge_E_1", "frame": {"x": 1, "y": 1, "w": 181, "h": 184}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 2, "y": 2, "w": 181, "h": 184}, "sourceSize": {"w": 186, "h": 188}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "charge_E_2", "frame": {"x": 1, "y": 559, "w": 172, "h": 178}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 7, "y": 5, "w": 172, "h": 178}, "sourceSize": {"w": 186, "h": 188}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "charge_E_3", "frame": {"x": 1, "y": 1377, "w": 146, "h": 148}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 20, "y": 20, "w": 146, "h": 148}, "sourceSize": {"w": 186, "h": 188}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "charge_E_4", "frame": {"x": 1, "y": 1529, "w": 146, "h": 148}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 20, "y": 20, "w": 146, "h": 148}, "sourceSize": {"w": 186, "h": 188}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "charge_E_5", "frame": {"x": 1, "y": 377, "w": 173, "h": 178}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 7, "y": 5, "w": 173, "h": 178}, "sourceSize": {"w": 186, "h": 188}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "charge_E_6", "frame": {"x": 1, "y": 189, "w": 177, "h": 184}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 6, "y": 2, "w": 177, "h": 184}, "sourceSize": {"w": 186, "h": 188}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "charge_E_7", "frame": {"x": 1, "y": 903, "w": 156, "h": 158}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 15, "y": 15, "w": 156, "h": 158}, "sourceSize": {"w": 186, "h": 188}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "charge_E_8", "frame": {"x": 1, "y": 1981, "w": 139, "h": 142}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 24, "y": 23, "w": 139, "h": 142}, "sourceSize": {"w": 186, "h": 188}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "charge_E_9", "frame": {"x": 1, "y": 1831, "w": 142, "h": 146}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 22, "y": 21, "w": 142, "h": 146}, "sourceSize": {"w": 186, "h": 188}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "charge_E_10", "frame": {"x": 1, "y": 1065, "w": 150, "h": 152}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 18, "y": 18, "w": 150, "h": 152}, "sourceSize": {"w": 186, "h": 188}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "charge_E_11", "frame": {"x": 1, "y": 1221, "w": 150, "h": 152}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 18, "y": 18, "w": 150, "h": 152}, "sourceSize": {"w": 186, "h": 188}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "charge_E_12", "frame": {"x": 1, "y": 1681, "w": 143, "h": 146}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 21, "y": 21, "w": 143, "h": 146}, "sourceSize": {"w": 186, "h": 188}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "charge_E_13", "frame": {"x": 1, "y": 2127, "w": 137, "h": 142}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 23, "y": 23, "w": 137, "h": 142}, "sourceSize": {"w": 186, "h": 188}, "pivot": {"x": 0.5, "y": 0.5}}
+      ]
+    }
+  ],
+  "meta": {"app": "Synty Sprite Generator", "version": "0.3"}
+}

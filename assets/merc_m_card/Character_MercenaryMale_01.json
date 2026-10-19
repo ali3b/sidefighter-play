@@ -1,0 +1,31 @@
+{
+  "textures": [
+    {
+      "image": "Character_MercenaryMale_01_0.png",
+      "format": "RGBA8888",
+      "size": {"w": 485, "h": 4065},
+      "scale": 1,
+      "frames": [
+        {"filename": "MartialArts_Idle_S_0", "frame": {"x": 1, "y": 3666, "w": 153, "h": 398}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 76, "y": 69, "w": 153, "h": 398}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_1", "frame": {"x": 163, "y": 822, "w": 155, "h": 401}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 76, "y": 67, "w": 155, "h": 401}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_2", "frame": {"x": 1, "y": 1, "w": 157, "h": 408}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 77, "y": 63, "w": 157, "h": 408}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_3", "frame": {"x": 1, "y": 413, "w": 156, "h": 407}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 79, "y": 66, "w": 156, "h": 407}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_4", "frame": {"x": 161, "y": 1642, "w": 155, "h": 402}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 82, "y": 72, "w": 155, "h": 402}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_5", "frame": {"x": 324, "y": 409, "w": 154, "h": 401}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 84, "y": 74, "w": 154, "h": 401}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_6", "frame": {"x": 1, "y": 1234, "w": 157, "h": 404}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 83, "y": 69, "w": 157, "h": 404}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_7", "frame": {"x": 1, "y": 824, "w": 158, "h": 406}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 80, "y": 64, "w": 158, "h": 406}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_8", "frame": {"x": 1, "y": 1642, "w": 156, "h": 404}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 78, "y": 65, "w": 156, "h": 404}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_9", "frame": {"x": 1, "y": 2456, "w": 153, "h": 400}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 79, "y": 68, "w": 153, "h": 400}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_10", "frame": {"x": 322, "y": 822, "w": 155, "h": 401}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 78, "y": 67, "w": 155, "h": 401}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_11", "frame": {"x": 1, "y": 2050, "w": 158, "h": 402}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 78, "y": 68, "w": 158, "h": 402}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_12", "frame": {"x": 325, "y": 1, "w": 159, "h": 400}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 79, "y": 71, "w": 159, "h": 400}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_13", "frame": {"x": 1, "y": 3264, "w": 158, "h": 398}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 81, "y": 74, "w": 158, "h": 398}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_14", "frame": {"x": 162, "y": 1234, "w": 157, "h": 401}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 81, "y": 70, "w": 157, "h": 401}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_15", "frame": {"x": 161, "y": 413, "w": 159, "h": 405}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 77, "y": 64, "w": 159, "h": 405}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_16", "frame": {"x": 162, "y": 1, "w": 159, "h": 404}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 74, "y": 64, "w": 159, "h": 404}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}},
+        {"filename": "MartialArts_Idle_S_17", "frame": {"x": 1, "y": 2860, "w": 153, "h": 400}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 77, "y": 68, "w": 153, "h": 400}, "sourceSize": {"w": 324, "h": 492}, "pivot": {"x": 0.5, "y": 0.89431}}
+      ]
+    }
+  ],
+  "meta": {"app": "Synty Sprite Generator", "version": "0.3"}
+}

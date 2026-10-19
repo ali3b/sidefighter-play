@@ -1,0 +1,30 @@
+{
+  "textures": [
+    {
+      "image": "Character_Gangster_0.png",
+      "format": "RGBA8888",
+      "size": {"w": 585, "h": 2804},
+      "scale": 1,
+      "frames": [
+        {"filename": "Boxer_Idle_S_0", "frame": {"x": 205, "y": 1, "w": 189, "h": 397}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 91, "y": 75, "w": 189, "h": 397}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_1", "frame": {"x": 1, "y": 811, "w": 192, "h": 398}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 85, "y": 74, "w": 192, "h": 398}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_2", "frame": {"x": 1, "y": 1614, "w": 196, "h": 396}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 78, "y": 76, "w": 196, "h": 396}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_3", "frame": {"x": 1, "y": 2412, "w": 194, "h": 391}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 78, "y": 81, "w": 194, "h": 391}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_4", "frame": {"x": 395, "y": 807, "w": 185, "h": 388}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 88, "y": 84, "w": 185, "h": 388}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_5", "frame": {"x": 193, "y": 2014, "w": 183, "h": 390}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 93, "y": 82, "w": 183, "h": 390}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_6", "frame": {"x": 1, "y": 1213, "w": 182, "h": 397}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 96, "y": 76, "w": 182, "h": 397}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_7", "frame": {"x": 1, "y": 406, "w": 191, "h": 401}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 89, "y": 73, "w": 191, "h": 401}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_8", "frame": {"x": 1, "y": 1, "w": 200, "h": 401}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 80, "y": 74, "w": 200, "h": 401}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_9", "frame": {"x": 196, "y": 406, "w": 201, "h": 397}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 79, "y": 78, "w": 201, "h": 397}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_10", "frame": {"x": 197, "y": 807, "w": 194, "h": 395}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 86, "y": 79, "w": 194, "h": 395}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_11", "frame": {"x": 187, "y": 1213, "w": 186, "h": 396}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 92, "y": 77, "w": 186, "h": 396}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_12", "frame": {"x": 398, "y": 1, "w": 186, "h": 397}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 90, "y": 75, "w": 186, "h": 397}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_13", "frame": {"x": 1, "y": 2014, "w": 188, "h": 394}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 84, "y": 78, "w": 188, "h": 394}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_14", "frame": {"x": 201, "y": 1613, "w": 188, "h": 389}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 82, "y": 83, "w": 188, "h": 389}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_15", "frame": {"x": 401, "y": 402, "w": 183, "h": 386}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 88, "y": 86, "w": 183, "h": 386}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}},
+        {"filename": "Boxer_Idle_S_16", "frame": {"x": 377, "y": 1206, "w": 183, "h": 389}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 91, "y": 84, "w": 183, "h": 389}, "sourceSize": {"w": 386, "h": 492}, "pivot": {"x": 0.5, "y": 0.87398}}
+      ]
+    }
+  ],
+  "meta": {"app": "Synty Sprite Generator", "version": "0.3"}
+}

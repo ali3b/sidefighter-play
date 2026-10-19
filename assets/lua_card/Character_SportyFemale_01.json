@@ -1,0 +1,25 @@
+{
+  "textures": [
+    {
+      "image": "Character_SportyFemale_01_0.png",
+      "format": "RGBA8888",
+      "size": {"w": 830, "h": 2256},
+      "scale": 1,
+      "frames": [
+        {"filename": "Capoeira_Idle_S_0", "frame": {"x": 304, "y": 1, "w": 335, "h": 364}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 26, "y": 116, "w": 335, "h": 364}, "sourceSize": {"w": 460, "h": 524}, "pivot": {"x": 0.5, "y": 0.86069}},
+        {"filename": "Capoeira_Idle_S_1", "frame": {"x": 1, "y": 780, "w": 315, "h": 382}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 43, "y": 100, "w": 315, "h": 382}, "sourceSize": {"w": 460, "h": 524}, "pivot": {"x": 0.5, "y": 0.86069}},
+        {"filename": "Capoeira_Idle_S_2", "frame": {"x": 1, "y": 1, "w": 299, "h": 388}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 54, "y": 97, "w": 299, "h": 388}, "sourceSize": {"w": 460, "h": 524}, "pivot": {"x": 0.5, "y": 0.86069}},
+        {"filename": "Capoeira_Idle_S_3", "frame": {"x": 1, "y": 393, "w": 286, "h": 383}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 62, "y": 104, "w": 286, "h": 383}, "sourceSize": {"w": 460, "h": 524}, "pivot": {"x": 0.5, "y": 0.86069}},
+        {"filename": "Capoeira_Idle_S_4", "frame": {"x": 291, "y": 393, "w": 280, "h": 369}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 70, "y": 119, "w": 280, "h": 369}, "sourceSize": {"w": 460, "h": 524}, "pivot": {"x": 0.5, "y": 0.86069}},
+        {"filename": "Capoeira_Idle_S_5", "frame": {"x": 1, "y": 1166, "w": 271, "h": 362}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 78, "y": 127, "w": 271, "h": 362}, "sourceSize": {"w": 460, "h": 524}, "pivot": {"x": 0.5, "y": 0.86069}},
+        {"filename": "Capoeira_Idle_S_6", "frame": {"x": 247, "y": 1532, "w": 257, "h": 354}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 86, "y": 128, "w": 257, "h": 354}, "sourceSize": {"w": 460, "h": 524}, "pivot": {"x": 0.5, "y": 0.86069}},
+        {"filename": "Capoeira_Idle_S_7", "frame": {"x": 1, "y": 1896, "w": 245, "h": 359}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 87, "y": 124, "w": 245, "h": 359}, "sourceSize": {"w": 460, "h": 524}, "pivot": {"x": 0.5, "y": 0.86069}},
+        {"filename": "Capoeira_Idle_S_8", "frame": {"x": 1, "y": 1532, "w": 242, "h": 360}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 83, "y": 124, "w": 242, "h": 360}, "sourceSize": {"w": 460, "h": 524}, "pivot": {"x": 0.5, "y": 0.86069}},
+        {"filename": "Capoeira_Idle_S_9", "frame": {"x": 276, "y": 1166, "w": 248, "h": 351}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 79, "y": 130, "w": 248, "h": 351}, "sourceSize": {"w": 460, "h": 524}, "pivot": {"x": 0.5, "y": 0.86069}},
+        {"filename": "Capoeira_Idle_S_10", "frame": {"x": 320, "y": 766, "w": 254, "h": 341}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 80, "y": 136, "w": 254, "h": 341}, "sourceSize": {"w": 460, "h": 524}, "pivot": {"x": 0.5, "y": 0.86069}},
+        {"filename": "Capoeira_Idle_S_11", "frame": {"x": 575, "y": 369, "w": 254, "h": 333}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 90, "y": 142, "w": 254, "h": 333}, "sourceSize": {"w": 460, "h": 524}, "pivot": {"x": 0.5, "y": 0.86069}}
+      ]
+    }
+  ],
+  "meta": {"app": "Synty Sprite Generator", "version": "0.3"}
+}

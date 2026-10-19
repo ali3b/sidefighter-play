@@ -1219,6 +1219,1927 @@
         }
       },
       "validation": []
+    },
+    "lua": {
+      "name": "lua",
+      "asset": "POLYGON_BattleRoyale/Character_SportyFemale_01",
+      "textureKey": "Character_SportyFemale_01",
+      "atlas": "assets/lua/Character_SportyFemale_01.json",
+      "path": "assets/lua/",
+      "anims": "assets/lua/Character_SportyFemale_01_anims.json",
+      "animPrefix": "lua/",
+      "meta": "assets/lua/Character_SportyFemale_01.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        346,
+        306
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "martial_arts_walk_forward",
+        "martial_arts_walk_back",
+        "martial_arts_jump",
+        "martial_arts_crouch_idle",
+        "martial_arts_dash_back",
+        "martial_arts_punch_light",
+        "martial_arts_punch_heavy",
+        "martial_arts_kick_light",
+        "martial_arts_kick_heavy",
+        "martial_arts_uppercut",
+        "martial_arts_special",
+        "martial_arts_block",
+        "martial_arts_crouch_block",
+        "martial_arts_hit_head",
+        "martial_arts_hit_body",
+        "martial_arts_knockdown",
+        "martial_arts_get_up",
+        "martial_arts_victory",
+        "martial_arts_taunt",
+        "martial_arts_swept",
+        "martial_arts_crouch_punch",
+        "martial_arts_crouch_kick",
+        "martial_arts_jump_kick",
+        "martial_arts_ko"
+      ],
+      "clipInfo": {
+        "martial_arts_walk_forward": {
+          "frames": 12,
+          "speedMps": 0.56,
+          "events": [
+            {
+              "frame": 4,
+              "name": "footstep_l"
+            },
+            {
+              "frame": 11,
+              "name": "footstep_r"
+            }
+          ]
+        },
+        "martial_arts_walk_back": {
+          "frames": 10,
+          "speedMps": 0.62,
+          "events": [
+            {
+              "frame": 0,
+              "name": "footstep_l"
+            },
+            {
+              "frame": 6,
+              "name": "footstep_r"
+            }
+          ]
+        },
+        "martial_arts_jump": {
+          "frames": 28,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_crouch_idle": {
+          "frames": 30,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_dash_back": {
+          "frames": 11,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_punch_light": {
+          "frames": 22,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 6
+            },
+            {
+              "frame": 6,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_punch_heavy": {
+          "frames": 27,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 7,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 9
+            },
+            {
+              "frame": 9,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_kick_light": {
+          "frames": 27,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 13,
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 15
+            },
+            {
+              "frame": 15,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_kick_heavy": {
+          "frames": 21,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 8,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 10
+            },
+            {
+              "frame": 10,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_uppercut": {
+          "frames": 27,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 8,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 11
+            },
+            {
+              "frame": 11,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_special": {
+          "frames": 41,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 24,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 30
+            },
+            {
+              "frame": 30,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_block": {
+          "frames": 22,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "block"
+            }
+          ]
+        },
+        "martial_arts_crouch_block": {
+          "frames": 20,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "block"
+            }
+          ]
+        },
+        "martial_arts_hit_head": {
+          "frames": 16,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 2,
+              "name": "hurt"
+            }
+          ]
+        },
+        "martial_arts_hit_body": {
+          "frames": 15,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 2,
+              "name": "hurt"
+            }
+          ]
+        },
+        "martial_arts_knockdown": {
+          "frames": 27,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_get_up": {
+          "frames": 33,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_victory": {
+          "frames": 55,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_taunt": {
+          "frames": 21,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_swept": {
+          "frames": 31,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_crouch_punch": {
+          "frames": 15,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 1,
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 4
+            },
+            {
+              "frame": 4,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_crouch_kick": {
+          "frames": 17,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 7
+            },
+            {
+              "frame": 7,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_jump_kick": {
+          "frames": 6,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 1,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 5
+            },
+            {
+              "frame": 5,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_ko": {
+          "frames": 32,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "lua_sp": {
+      "name": "lua_sp",
+      "asset": "POLYGON_BattleRoyale/Character_SportyFemale_01",
+      "textureKey": "Character_SportyFemale_01",
+      "atlas": "assets/lua_sp/Character_SportyFemale_01.json",
+      "path": "assets/lua_sp/",
+      "anims": "assets/lua_sp/Character_SportyFemale_01_anims.json",
+      "animPrefix": "lua_sp/",
+      "meta": "assets/lua_sp/Character_SportyFemale_01.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        352,
+        264
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "Capoeira_Idle",
+        "MartialArts_Dash_Forward",
+        "Capoeira_Spin_Kick",
+        "Capoeira_High_Kick",
+        "Capoeira_Cartwheel",
+        "Capoeira_Side_Kick",
+        "Capoeira_Kicks"
+      ],
+      "clipInfo": {
+        "Capoeira_Idle": {
+          "frames": 41,
+          "speedMps": null,
+          "events": []
+        },
+        "MartialArts_Dash_Forward": {
+          "frames": 13,
+          "speedMps": null,
+          "events": []
+        },
+        "Capoeira_Spin_Kick": {
+          "frames": 16,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 10,
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 12
+            },
+            {
+              "frame": 12,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "Capoeira_High_Kick": {
+          "frames": 21,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 7,
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 11
+            },
+            {
+              "frame": 11,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "Capoeira_Cartwheel": {
+          "frames": 20,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 7,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 11
+            },
+            {
+              "frame": 11,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "Capoeira_Side_Kick": {
+          "frames": 16,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 8
+            },
+            {
+              "frame": 8,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "Capoeira_Kicks": {
+          "frames": 37,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 9,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 31
+            },
+            {
+              "frame": 31,
+              "name": "hit_end"
+            }
+          ]
+        }
+      },
+      "validation": []
+    },
+    "kruz": {
+      "name": "kruz",
+      "asset": "POLYGON_BattleRoyale/Character_ToplessMale_01",
+      "textureKey": "Character_ToplessMale_01",
+      "atlas": "assets/kruz/Character_ToplessMale_01.json",
+      "path": "assets/kruz/",
+      "anims": "assets/kruz/Character_ToplessMale_01_anims.json",
+      "animPrefix": "kruz/",
+      "meta": "assets/kruz/Character_ToplessMale_01.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        348,
+        306
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "martial_arts_walk_forward",
+        "martial_arts_walk_back",
+        "martial_arts_jump",
+        "martial_arts_crouch_idle",
+        "martial_arts_dash_back",
+        "martial_arts_punch_light",
+        "martial_arts_punch_heavy",
+        "martial_arts_kick_light",
+        "martial_arts_kick_heavy",
+        "martial_arts_uppercut",
+        "martial_arts_special",
+        "martial_arts_block",
+        "martial_arts_crouch_block",
+        "martial_arts_hit_head",
+        "martial_arts_hit_body",
+        "martial_arts_knockdown",
+        "martial_arts_get_up",
+        "martial_arts_victory",
+        "martial_arts_taunt",
+        "martial_arts_swept",
+        "martial_arts_crouch_punch",
+        "martial_arts_crouch_kick",
+        "martial_arts_jump_kick",
+        "martial_arts_ko"
+      ],
+      "clipInfo": {
+        "martial_arts_walk_forward": {
+          "frames": 12,
+          "speedMps": 0.56,
+          "events": [
+            {
+              "frame": 4,
+              "name": "footstep_l"
+            },
+            {
+              "frame": 11,
+              "name": "footstep_r"
+            }
+          ]
+        },
+        "martial_arts_walk_back": {
+          "frames": 10,
+          "speedMps": 0.62,
+          "events": [
+            {
+              "frame": 0,
+              "name": "footstep_l"
+            },
+            {
+              "frame": 6,
+              "name": "footstep_r"
+            }
+          ]
+        },
+        "martial_arts_jump": {
+          "frames": 28,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_crouch_idle": {
+          "frames": 30,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_dash_back": {
+          "frames": 11,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_punch_light": {
+          "frames": 22,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 6
+            },
+            {
+              "frame": 6,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_punch_heavy": {
+          "frames": 27,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 7,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 9
+            },
+            {
+              "frame": 9,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_kick_light": {
+          "frames": 27,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 13,
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 15
+            },
+            {
+              "frame": 15,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_kick_heavy": {
+          "frames": 21,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 8,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 10
+            },
+            {
+              "frame": 10,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_uppercut": {
+          "frames": 27,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 8,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 11
+            },
+            {
+              "frame": 11,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_special": {
+          "frames": 41,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 24,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 30
+            },
+            {
+              "frame": 30,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_block": {
+          "frames": 22,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "block"
+            }
+          ]
+        },
+        "martial_arts_crouch_block": {
+          "frames": 20,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "block"
+            }
+          ]
+        },
+        "martial_arts_hit_head": {
+          "frames": 16,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 2,
+              "name": "hurt"
+            }
+          ]
+        },
+        "martial_arts_hit_body": {
+          "frames": 15,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 2,
+              "name": "hurt"
+            }
+          ]
+        },
+        "martial_arts_knockdown": {
+          "frames": 27,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_get_up": {
+          "frames": 33,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_victory": {
+          "frames": 55,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_taunt": {
+          "frames": 21,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_swept": {
+          "frames": 31,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_crouch_punch": {
+          "frames": 15,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 1,
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 4
+            },
+            {
+              "frame": 4,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_crouch_kick": {
+          "frames": 17,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 7
+            },
+            {
+              "frame": 7,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_jump_kick": {
+          "frames": 6,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 1,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 5
+            },
+            {
+              "frame": 5,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_ko": {
+          "frames": 32,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "kruz_sp": {
+      "name": "kruz_sp",
+      "asset": "POLYGON_BattleRoyale/Character_ToplessMale_01",
+      "textureKey": "Character_ToplessMale_01",
+      "atlas": "assets/kruz_sp/Character_ToplessMale_01.json",
+      "path": "assets/kruz_sp/",
+      "anims": "assets/kruz_sp/Character_ToplessMale_01_anims.json",
+      "animPrefix": "kruz_sp/",
+      "meta": "assets/kruz_sp/Character_ToplessMale_01.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        320,
+        242
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "MMA_Idle",
+        "MartialArts_Dash_Forward",
+        "MMA_Roundhouse",
+        "MMA_High_Kick",
+        "MMA_Spinning_Back_Kick",
+        "MMA_Side_Kick",
+        "MMA_Takedown"
+      ],
+      "clipInfo": {
+        "MMA_Idle": {
+          "frames": 60,
+          "speedMps": null,
+          "events": []
+        },
+        "MartialArts_Dash_Forward": {
+          "frames": 13,
+          "speedMps": null,
+          "events": []
+        },
+        "MMA_Roundhouse": {
+          "frames": 17,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 7
+            },
+            {
+              "frame": 7,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "MMA_High_Kick": {
+          "frames": 18,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 8
+            },
+            {
+              "frame": 8,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "MMA_Spinning_Back_Kick": {
+          "frames": 19,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 7,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 10
+            },
+            {
+              "frame": 10,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "MMA_Side_Kick": {
+          "frames": 15,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 8
+            },
+            {
+              "frame": 8,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "MMA_Takedown": {
+          "frames": 25,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 7,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 10
+            },
+            {
+              "frame": 10,
+              "name": "hit_end"
+            }
+          ]
+        }
+      },
+      "validation": []
+    },
+    "tank": {
+      "name": "tank",
+      "asset": "POLYGON_City_Characters/SK_Character_Biker",
+      "textureKey": "Character_Biker",
+      "atlas": "assets/tank/Character_Biker.json",
+      "path": "assets/tank/",
+      "anims": "assets/tank/Character_Biker_anims.json",
+      "animPrefix": "tank/",
+      "meta": "assets/tank/Character_Biker.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        348,
+        306
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "martial_arts_walk_forward",
+        "martial_arts_walk_back",
+        "martial_arts_jump",
+        "martial_arts_crouch_idle",
+        "martial_arts_dash_back",
+        "martial_arts_punch_light",
+        "martial_arts_punch_heavy",
+        "martial_arts_kick_light",
+        "martial_arts_kick_heavy",
+        "martial_arts_uppercut",
+        "martial_arts_special",
+        "martial_arts_block",
+        "martial_arts_crouch_block",
+        "martial_arts_hit_head",
+        "martial_arts_hit_body",
+        "martial_arts_knockdown",
+        "martial_arts_get_up",
+        "martial_arts_victory",
+        "martial_arts_swept",
+        "martial_arts_crouch_punch",
+        "martial_arts_crouch_kick",
+        "martial_arts_jump_kick",
+        "martial_arts_ko"
+      ],
+      "clipInfo": {
+        "martial_arts_walk_forward": {
+          "frames": 12,
+          "speedMps": 0.56,
+          "events": [
+            {
+              "frame": 4,
+              "name": "footstep_l"
+            },
+            {
+              "frame": 11,
+              "name": "footstep_r"
+            }
+          ]
+        },
+        "martial_arts_walk_back": {
+          "frames": 10,
+          "speedMps": 0.62,
+          "events": [
+            {
+              "frame": 0,
+              "name": "footstep_l"
+            },
+            {
+              "frame": 6,
+              "name": "footstep_r"
+            }
+          ]
+        },
+        "martial_arts_jump": {
+          "frames": 28,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_crouch_idle": {
+          "frames": 30,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_dash_back": {
+          "frames": 11,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_punch_light": {
+          "frames": 22,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 6
+            },
+            {
+              "frame": 6,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_punch_heavy": {
+          "frames": 27,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 7,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 9
+            },
+            {
+              "frame": 9,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_kick_light": {
+          "frames": 27,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 13,
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 15
+            },
+            {
+              "frame": 15,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_kick_heavy": {
+          "frames": 21,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 8,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 10
+            },
+            {
+              "frame": 10,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_uppercut": {
+          "frames": 27,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 8,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 11
+            },
+            {
+              "frame": 11,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_special": {
+          "frames": 41,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 24,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 30
+            },
+            {
+              "frame": 30,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_block": {
+          "frames": 22,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "block"
+            }
+          ]
+        },
+        "martial_arts_crouch_block": {
+          "frames": 20,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "block"
+            }
+          ]
+        },
+        "martial_arts_hit_head": {
+          "frames": 16,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 2,
+              "name": "hurt"
+            }
+          ]
+        },
+        "martial_arts_hit_body": {
+          "frames": 15,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 2,
+              "name": "hurt"
+            }
+          ]
+        },
+        "martial_arts_knockdown": {
+          "frames": 27,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_get_up": {
+          "frames": 33,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_victory": {
+          "frames": 55,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_swept": {
+          "frames": 31,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_crouch_punch": {
+          "frames": 15,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 1,
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 4
+            },
+            {
+              "frame": 4,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_crouch_kick": {
+          "frames": 17,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 7
+            },
+            {
+              "frame": 7,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_jump_kick": {
+          "frames": 6,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 1,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 5
+            },
+            {
+              "frame": 5,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_ko": {
+          "frames": 32,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "tank_sp": {
+      "name": "tank_sp",
+      "asset": "POLYGON_City_Characters/SK_Character_Biker",
+      "textureKey": "Character_Biker",
+      "atlas": "assets/tank_sp/Character_Biker.json",
+      "path": "assets/tank_sp/",
+      "anims": "assets/tank_sp/Character_Biker_anims.json",
+      "animPrefix": "tank_sp/",
+      "meta": "assets/tank_sp/Character_Biker.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        218,
+        240
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "Brawler_Idle",
+        "MartialArts_Dash_Forward",
+        "Brawler_Headbutt",
+        "Brawler_Elbow",
+        "Brawler_Elbow_Uppercut",
+        "Brawler_Knee",
+        "Brawler_Taunt"
+      ],
+      "clipInfo": {
+        "Brawler_Idle": {
+          "frames": 40,
+          "speedMps": null,
+          "events": []
+        },
+        "MartialArts_Dash_Forward": {
+          "frames": 13,
+          "speedMps": null,
+          "events": []
+        },
+        "Brawler_Headbutt": {
+          "frames": 20,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 6,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 9
+            },
+            {
+              "frame": 9,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "Brawler_Elbow": {
+          "frames": 18,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 9
+            },
+            {
+              "frame": 9,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "Brawler_Elbow_Uppercut": {
+          "frames": 20,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 8
+            },
+            {
+              "frame": 8,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "Brawler_Knee": {
+          "frames": 20,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 6,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 9
+            },
+            {
+              "frame": 9,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "Brawler_Taunt": {
+          "frames": 35,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "duke": {
+      "name": "duke",
+      "asset": "POLYGON_City_Characters/SK_Character_Gangster",
+      "textureKey": "Character_Gangster",
+      "atlas": "assets/duke/Character_Gangster.json",
+      "path": "assets/duke/",
+      "anims": "assets/duke/Character_Gangster_anims.json",
+      "animPrefix": "duke/",
+      "meta": "assets/duke/Character_Gangster.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        348,
+        310
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "martial_arts_walk_forward",
+        "martial_arts_walk_back",
+        "martial_arts_jump",
+        "martial_arts_crouch_idle",
+        "martial_arts_dash_back",
+        "martial_arts_punch_light",
+        "martial_arts_punch_heavy",
+        "martial_arts_kick_light",
+        "martial_arts_kick_heavy",
+        "martial_arts_uppercut",
+        "martial_arts_special",
+        "martial_arts_block",
+        "martial_arts_crouch_block",
+        "martial_arts_hit_head",
+        "martial_arts_hit_body",
+        "martial_arts_knockdown",
+        "martial_arts_get_up",
+        "martial_arts_victory",
+        "martial_arts_swept",
+        "martial_arts_crouch_punch",
+        "martial_arts_crouch_kick",
+        "martial_arts_jump_kick",
+        "martial_arts_ko"
+      ],
+      "clipInfo": {
+        "martial_arts_walk_forward": {
+          "frames": 12,
+          "speedMps": 0.56,
+          "events": [
+            {
+              "frame": 4,
+              "name": "footstep_l"
+            },
+            {
+              "frame": 11,
+              "name": "footstep_r"
+            }
+          ]
+        },
+        "martial_arts_walk_back": {
+          "frames": 10,
+          "speedMps": 0.62,
+          "events": [
+            {
+              "frame": 0,
+              "name": "footstep_l"
+            },
+            {
+              "frame": 6,
+              "name": "footstep_r"
+            }
+          ]
+        },
+        "martial_arts_jump": {
+          "frames": 28,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_crouch_idle": {
+          "frames": 30,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_dash_back": {
+          "frames": 11,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_punch_light": {
+          "frames": 22,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 6
+            },
+            {
+              "frame": 6,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_punch_heavy": {
+          "frames": 27,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 7,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 9
+            },
+            {
+              "frame": 9,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_kick_light": {
+          "frames": 27,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 13,
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 15
+            },
+            {
+              "frame": 15,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_kick_heavy": {
+          "frames": 21,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 8,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 10
+            },
+            {
+              "frame": 10,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_uppercut": {
+          "frames": 27,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 8,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 11
+            },
+            {
+              "frame": 11,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_special": {
+          "frames": 41,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 24,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 30
+            },
+            {
+              "frame": 30,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_block": {
+          "frames": 22,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "block"
+            }
+          ]
+        },
+        "martial_arts_crouch_block": {
+          "frames": 20,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "block"
+            }
+          ]
+        },
+        "martial_arts_hit_head": {
+          "frames": 16,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 2,
+              "name": "hurt"
+            }
+          ]
+        },
+        "martial_arts_hit_body": {
+          "frames": 15,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 2,
+              "name": "hurt"
+            }
+          ]
+        },
+        "martial_arts_knockdown": {
+          "frames": 27,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_get_up": {
+          "frames": 33,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_victory": {
+          "frames": 55,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_swept": {
+          "frames": 31,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_crouch_punch": {
+          "frames": 15,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 1,
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 4
+            },
+            {
+              "frame": 4,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_crouch_kick": {
+          "frames": 17,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 7
+            },
+            {
+              "frame": 7,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_jump_kick": {
+          "frames": 6,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 1,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 5
+            },
+            {
+              "frame": 5,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_ko": {
+          "frames": 32,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "duke_sp": {
+      "name": "duke_sp",
+      "asset": "POLYGON_City_Characters/SK_Character_Gangster",
+      "textureKey": "Character_Gangster",
+      "atlas": "assets/duke_sp/Character_Gangster.json",
+      "path": "assets/duke_sp/",
+      "anims": "assets/duke_sp/Character_Gangster_anims.json",
+      "animPrefix": "duke_sp/",
+      "meta": "assets/duke_sp/Character_Gangster.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        248,
+        254
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "Boxer_Idle",
+        "MartialArts_Dash_Forward",
+        "Boxer_Hook_Lead",
+        "Boxer_Hook_Back",
+        "Boxer_Uppercut_Lead",
+        "Boxer_Body_Jab_Cross",
+        "Boxer_Dodge_Advance",
+        "Boxer_Dodge_Retreat",
+        "Boxer_Warm_Up"
+      ],
+      "clipInfo": {
+        "Boxer_Idle": {
+          "frames": 44,
+          "speedMps": null,
+          "events": []
+        },
+        "MartialArts_Dash_Forward": {
+          "frames": 13,
+          "speedMps": null,
+          "events": []
+        },
+        "Boxer_Hook_Lead": {
+          "frames": 17,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 3,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 6
+            },
+            {
+              "frame": 6,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "Boxer_Hook_Back": {
+          "frames": 18,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 8
+            },
+            {
+              "frame": 8,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "Boxer_Uppercut_Lead": {
+          "frames": 16,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 7
+            },
+            {
+              "frame": 7,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "Boxer_Body_Jab_Cross": {
+          "frames": 18,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 8
+            },
+            {
+              "frame": 8,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "Boxer_Dodge_Advance": {
+          "frames": 24,
+          "speedMps": null,
+          "events": []
+        },
+        "Boxer_Dodge_Retreat": {
+          "frames": 24,
+          "speedMps": null,
+          "events": []
+        },
+        "Boxer_Warm_Up": {
+          "frames": 39,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "merc_m_card": {
+      "name": "merc_m_card",
+      "asset": "POLYGON_BattleRoyale/Character_MercenaryMale_01",
+      "textureKey": "Character_MercenaryMale_01",
+      "atlas": "assets/merc_m_card/Character_MercenaryMale_01.json",
+      "path": "assets/merc_m_card/",
+      "anims": "assets/merc_m_card/Character_MercenaryMale_01_anims.json",
+      "animPrefix": "merc_m_card/",
+      "meta": "assets/merc_m_card/Character_MercenaryMale_01.meta.json",
+      "pixelsPerMetre": 240,
+      "frameSize": [
+        324,
+        492
+      ],
+      "dirs": [
+        "S"
+      ],
+      "clips": [
+        "MartialArts_Idle"
+      ],
+      "clipInfo": {
+        "MartialArts_Idle": {
+          "frames": 18,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "merc_f_card": {
+      "name": "merc_f_card",
+      "asset": "POLYGON_BattleRoyale/Character_MercenaryFemale_01",
+      "textureKey": "Character_MercenaryFemale_01",
+      "atlas": "assets/merc_f_card/Character_MercenaryFemale_01.json",
+      "path": "assets/merc_f_card/",
+      "anims": "assets/merc_f_card/Character_MercenaryFemale_01_anims.json",
+      "animPrefix": "merc_f_card/",
+      "meta": "assets/merc_f_card/Character_MercenaryFemale_01.meta.json",
+      "pixelsPerMetre": 240,
+      "frameSize": [
+        322,
+        496
+      ],
+      "dirs": [
+        "S"
+      ],
+      "clips": [
+        "MartialArts_Idle"
+      ],
+      "clipInfo": {
+        "MartialArts_Idle": {
+          "frames": 18,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "lua_card": {
+      "name": "lua_card",
+      "asset": "POLYGON_BattleRoyale/Character_SportyFemale_01",
+      "textureKey": "Character_SportyFemale_01",
+      "atlas": "assets/lua_card/Character_SportyFemale_01.json",
+      "path": "assets/lua_card/",
+      "anims": "assets/lua_card/Character_SportyFemale_01_anims.json",
+      "animPrefix": "lua_card/",
+      "meta": "assets/lua_card/Character_SportyFemale_01.meta.json",
+      "pixelsPerMetre": 240,
+      "frameSize": [
+        460,
+        524
+      ],
+      "dirs": [
+        "S"
+      ],
+      "clips": [
+        "Capoeira_Idle"
+      ],
+      "clipInfo": {
+        "Capoeira_Idle": {
+          "frames": 12,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "kruz_card": {
+      "name": "kruz_card",
+      "asset": "POLYGON_BattleRoyale/Character_ToplessMale_01",
+      "textureKey": "Character_ToplessMale_01",
+      "atlas": "assets/kruz_card/Character_ToplessMale_01.json",
+      "path": "assets/kruz_card/",
+      "anims": "assets/kruz_card/Character_ToplessMale_01_anims.json",
+      "animPrefix": "kruz_card/",
+      "meta": "assets/kruz_card/Character_ToplessMale_01.meta.json",
+      "pixelsPerMetre": 240,
+      "frameSize": [
+        352,
+        498
+      ],
+      "dirs": [
+        "S"
+      ],
+      "clips": [
+        "MMA_Idle"
+      ],
+      "clipInfo": {
+        "MMA_Idle": {
+          "frames": 18,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "tank_card": {
+      "name": "tank_card",
+      "asset": "POLYGON_City_Characters/SK_Character_Biker",
+      "textureKey": "Character_Biker",
+      "atlas": "assets/tank_card/Character_Biker.json",
+      "path": "assets/tank_card/",
+      "anims": "assets/tank_card/Character_Biker_anims.json",
+      "animPrefix": "tank_card/",
+      "meta": "assets/tank_card/Character_Biker.meta.json",
+      "pixelsPerMetre": 240,
+      "frameSize": [
+        326,
+        522
+      ],
+      "dirs": [
+        "S"
+      ],
+      "clips": [
+        "Brawler_Idle"
+      ],
+      "clipInfo": {
+        "Brawler_Idle": {
+          "frames": 20,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "duke_card": {
+      "name": "duke_card",
+      "asset": "POLYGON_City_Characters/SK_Character_Gangster",
+      "textureKey": "Character_Gangster",
+      "atlas": "assets/duke_card/Character_Gangster.json",
+      "path": "assets/duke_card/",
+      "anims": "assets/duke_card/Character_Gangster_anims.json",
+      "animPrefix": "duke_card/",
+      "meta": "assets/duke_card/Character_Gangster.meta.json",
+      "pixelsPerMetre": 240,
+      "frameSize": [
+        386,
+        492
+      ],
+      "dirs": [
+        "S"
+      ],
+      "clips": [
+        "Boxer_Idle"
+      ],
+      "clipInfo": {
+        "Boxer_Idle": {
+          "frames": 17,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "armor_glow": {
+      "name": "armor_glow",
+      "asset": "POLYGON_Particle_FX/FX_Sphere_01",
+      "textureKey": "FX_Sphere_01",
+      "atlas": "assets/armor_glow/FX_Sphere_01.json",
+      "path": "assets/armor_glow/",
+      "anims": "assets/armor_glow/FX_Sphere_01_anims.json",
+      "animPrefix": "armor_glow/",
+      "meta": "assets/armor_glow/FX_Sphere_01.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        186,
+        188
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "charge"
+      ],
+      "clipInfo": {
+        "charge": {
+          "frames": 14,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "rocks": {
+      "name": "rocks",
+      "asset": "POLYGON_Particle_FX/FX_Shard_Rock_Small_01",
+      "textureKey": "FX_Shard_Rock_Small_01",
+      "atlas": "assets/rocks/FX_Shard_Rock_Small_01.json",
+      "path": "assets/rocks/",
+      "anims": "assets/rocks/FX_Shard_Rock_Small_01_anims.json",
+      "animPrefix": "rocks/",
+      "meta": "assets/rocks/FX_Shard_Rock_Small_01.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        68,
+        42
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "burst"
+      ],
+      "clipInfo": {
+        "burst": {
+          "frames": 18,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 0,
+              "name": "impact"
+            }
+          ]
+        }
+      },
+      "validation": []
     }
   },
   "project": "Sidefighter",
@@ -1227,5 +3148,5 @@
   "fps": 12,
   "generatedBy": "Synty Sprite Generator (ssg CLI)",
   "ppm": 128,
-  "builtAt": "2026-10-19T12:09:46.089Z"
+  "builtAt": "2026-10-19T13:39:55.422Z"
 }

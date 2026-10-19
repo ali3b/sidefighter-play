@@ -1,0 +1,5 @@
+{
+  "anims": [
+    {"key": "duke_card/Boxer_Idle_S", "frameRate": 12, "repeat": -1, "flipX": false, "frames": [{"key": "Character_Gangster", "frame": "Boxer_Idle_S_0"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_1"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_2"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_3"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_4"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_5"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_6"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_7"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_8"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_9"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_10"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_11"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_12"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_13"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_14"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_15"}, {"key": "Character_Gangster", "frame": "Boxer_Idle_S_16"}]}
+  ]
+}

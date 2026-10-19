@@ -1,0 +1,33 @@
+{
+  "textures": [
+    {
+      "image": "Character_Biker_0.png",
+      "format": "RGBA8888",
+      "size": {"w": 706, "h": 3456},
+      "scale": 1,
+      "frames": [
+        {"filename": "Brawler_Idle_S_0", "frame": {"x": 1, "y": 878, "w": 168, "h": 434}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 85, "y": 57, "w": 168, "h": 434}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_1", "frame": {"x": 1, "y": 1, "w": 164, "h": 435}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 86, "y": 58, "w": 164, "h": 435}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_2", "frame": {"x": 1, "y": 2181, "w": 163, "h": 426}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 84, "y": 66, "w": 163, "h": 426}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_3", "frame": {"x": 188, "y": 1313, "w": 162, "h": 422}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 82, "y": 71, "w": 162, "h": 422}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_4", "frame": {"x": 168, "y": 2181, "w": 166, "h": 425}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 80, "y": 68, "w": 166, "h": 425}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_5", "frame": {"x": 344, "y": 1, "w": 170, "h": 427}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 80, "y": 65, "w": 170, "h": 427}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_6", "frame": {"x": 342, "y": 870, "w": 175, "h": 421}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 79, "y": 70, "w": 175, "h": 421}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_7", "frame": {"x": 182, "y": 2610, "w": 179, "h": 414}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 72, "y": 77, "w": 179, "h": 414}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_8", "frame": {"x": 1, "y": 3040, "w": 179, "h": 415}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 70, "y": 78, "w": 179, "h": 415}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_9", "frame": {"x": 1, "y": 2611, "w": 177, "h": 425}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 71, "y": 69, "w": 177, "h": 425}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_10", "frame": {"x": 169, "y": 1, "w": 171, "h": 434}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 73, "y": 60, "w": 171, "h": 434}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_11", "frame": {"x": 173, "y": 878, "w": 165, "h": 431}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 74, "y": 61, "w": 165, "h": 431}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_12", "frame": {"x": 373, "y": 432, "w": 160, "h": 421}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 73, "y": 69, "w": 160, "h": 421}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_13", "frame": {"x": 354, "y": 1295, "w": 162, "h": 419}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 70, "y": 71, "w": 162, "h": 419}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_14", "frame": {"x": 1, "y": 1751, "w": 168, "h": 426}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 67, "y": 65, "w": 168, "h": 426}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_15", "frame": {"x": 1, "y": 440, "w": 178, "h": 434}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 58, "w": 178, "h": 434}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_16", "frame": {"x": 1, "y": 1316, "w": 183, "h": 431}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 67, "y": 61, "w": 183, "h": 431}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_17", "frame": {"x": 173, "y": 1751, "w": 186, "h": 423}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 65, "y": 70, "w": 186, "h": 423}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_18", "frame": {"x": 518, "y": 1, "w": 187, "h": 420}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 64, "y": 74, "w": 187, "h": 420}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}},
+        {"filename": "Brawler_Idle_S_19", "frame": {"x": 183, "y": 439, "w": 186, "h": 427}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 65, "y": 67, "w": 186, "h": 427}, "sourceSize": {"w": 326, "h": 522}, "pivot": {"x": 0.5, "y": 0.90038}}
+      ]
+    }
+  ],
+  "meta": {"app": "Synty Sprite Generator", "version": "0.3"}
+}
