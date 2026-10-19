@@ -1,0 +1,28 @@
+{
+  "textures": [
+    {
+      "image": "FX_Sphere_Puff_01_0.png",
+      "format": "RGBA8888",
+      "size": {"w": 1771, "h": 84},
+      "scale": 1,
+      "frames": [
+        {"filename": "smoke_puffs_E_0", "frame": {"x": 1683, "y": 49, "w": 1, "h": 1}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 0, "y": 0, "w": 1, "h": 1}, "sourceSize": {"w": 252, "h": 82}, "pivot": {"x": 0.5, "y": 0.86585}},
+        {"filename": "smoke_puffs_E_1", "frame": {"x": 1516, "y": 58, "w": 27, "h": 23}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 107, "y": 55, "w": 27, "h": 23}, "sourceSize": {"w": 252, "h": 82}, "pivot": {"x": 0.5, "y": 0.86585}},
+        {"filename": "smoke_puffs_E_2", "frame": {"x": 1623, "y": 49, "w": 56, "h": 34}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 99, "y": 44, "w": 56, "h": 34}, "sourceSize": {"w": 252, "h": 82}, "pivot": {"x": 0.5, "y": 0.86585}},
+        {"filename": "smoke_puffs_E_3", "frame": {"x": 1623, "y": 1, "w": 82, "h": 44}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 91, "y": 35, "w": 82, "h": 44}, "sourceSize": {"w": 252, "h": 82}, "pivot": {"x": 0.5, "y": 0.86585}},
+        {"filename": "smoke_puffs_E_4", "frame": {"x": 1516, "y": 1, "w": 103, "h": 53}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 85, "y": 27, "w": 103, "h": 53}, "sourceSize": {"w": 252, "h": 82}, "pivot": {"x": 0.5, "y": 0.86585}},
+        {"filename": "smoke_puffs_E_5", "frame": {"x": 1392, "y": 1, "w": 120, "h": 60}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 81, "y": 21, "w": 120, "h": 60}, "sourceSize": {"w": 252, "h": 82}, "pivot": {"x": 0.5, "y": 0.86585}},
+        {"filename": "smoke_puffs_E_6", "frame": {"x": 1254, "y": 1, "w": 134, "h": 65}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 76, "y": 16, "w": 134, "h": 65}, "sourceSize": {"w": 252, "h": 82}, "pivot": {"x": 0.5, "y": 0.86585}},
+        {"filename": "smoke_puffs_E_7", "frame": {"x": 1098, "y": 1, "w": 152, "h": 70}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 12, "w": 152, "h": 70}, "sourceSize": {"w": 252, "h": 82}, "pivot": {"x": 0.5, "y": 0.86585}},
+        {"filename": "smoke_puffs_E_8", "frame": {"x": 930, "y": 1, "w": 164, "h": 73}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 59, "y": 9, "w": 164, "h": 73}, "sourceSize": {"w": 252, "h": 82}, "pivot": {"x": 0.5, "y": 0.86585}},
+        {"filename": "smoke_puffs_E_9", "frame": {"x": 752, "y": 1, "w": 174, "h": 76}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 53, "y": 6, "w": 174, "h": 76}, "sourceSize": {"w": 252, "h": 82}, "pivot": {"x": 0.5, "y": 0.86585}},
+        {"filename": "smoke_puffs_E_10", "frame": {"x": 568, "y": 1, "w": 180, "h": 79}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 50, "y": 3, "w": 180, "h": 79}, "sourceSize": {"w": 252, "h": 82}, "pivot": {"x": 0.5, "y": 0.86585}},
+        {"filename": "smoke_puffs_E_11", "frame": {"x": 381, "y": 1, "w": 183, "h": 81}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 48, "y": 1, "w": 183, "h": 81}, "sourceSize": {"w": 252, "h": 82}, "pivot": {"x": 0.5, "y": 0.86585}},
+        {"filename": "smoke_puffs_E_12", "frame": {"x": 1, "y": 1, "w": 186, "h": 82}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 46, "y": 0, "w": 186, "h": 82}, "sourceSize": {"w": 252, "h": 82}, "pivot": {"x": 0.5, "y": 0.86585}},
+        {"filename": "smoke_puffs_E_13", "frame": {"x": 191, "y": 1, "w": 186, "h": 82}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 46, "y": 0, "w": 186, "h": 82}, "sourceSize": {"w": 252, "h": 82}, "pivot": {"x": 0.5, "y": 0.86585}},
+        {"filename": "smoke_puffs_E_14", "frame": {"x": 1709, "y": 1, "w": 61, "h": 66}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 75, "y": 8, "w": 61, "h": 66}, "sourceSize": {"w": 252, "h": 82}, "pivot": {"x": 0.5, "y": 0.86585}}
+      ]
+    }
+  ],
+  "meta": {"app": "Synty Sprite Generator", "version": "0.3"}
+}

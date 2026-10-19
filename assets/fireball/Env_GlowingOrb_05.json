@@ -1,0 +1,25 @@
+{
+  "textures": [
+    {
+      "image": "Env_GlowingOrb_05_0.png",
+      "format": "RGBA8888",
+      "size": {"w": 1058, "h": 159},
+      "scale": 1,
+      "frames": [
+        {"filename": "projectile_fire_loop_E_0", "frame": {"x": 458, "y": 1, "w": 125, "h": 73}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 23, "y": 30, "w": 125, "h": 73}, "sourceSize": {"w": 278, "h": 134}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "projectile_fire_loop_E_1", "frame": {"x": 1, "y": 1, "w": 151, "h": 77}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 1, "y": 28, "w": 151, "h": 77}, "sourceSize": {"w": 278, "h": 134}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "projectile_fire_loop_E_2", "frame": {"x": 156, "y": 81, "w": 146, "h": 76}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 3, "y": 30, "w": 146, "h": 76}, "sourceSize": {"w": 278, "h": 134}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "projectile_fire_loop_E_3", "frame": {"x": 716, "y": 1, "w": 124, "h": 68}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 22, "y": 34, "w": 124, "h": 68}, "sourceSize": {"w": 278, "h": 134}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "projectile_fire_loop_E_4", "frame": {"x": 844, "y": 68, "w": 104, "h": 63}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 42, "y": 36, "w": 104, "h": 63}, "sourceSize": {"w": 278, "h": 134}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "projectile_fire_loop_E_5", "frame": {"x": 844, "y": 1, "w": 105, "h": 63}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 43, "y": 38, "w": 105, "h": 63}, "sourceSize": {"w": 278, "h": 134}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "projectile_fire_loop_E_6", "frame": {"x": 587, "y": 1, "w": 125, "h": 72}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 23, "y": 32, "w": 125, "h": 72}, "sourceSize": {"w": 278, "h": 134}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "projectile_fire_loop_E_7", "frame": {"x": 308, "y": 1, "w": 146, "h": 81}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 1, "y": 29, "w": 146, "h": 81}, "sourceSize": {"w": 278, "h": 134}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "projectile_fire_loop_E_8", "frame": {"x": 156, "y": 1, "w": 148, "h": 76}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 1, "y": 31, "w": 148, "h": 76}, "sourceSize": {"w": 278, "h": 134}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "projectile_fire_loop_E_9", "frame": {"x": 1, "y": 82, "w": 128, "h": 76}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 22, "y": 31, "w": 128, "h": 76}, "sourceSize": {"w": 278, "h": 134}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "projectile_fire_loop_E_10", "frame": {"x": 953, "y": 1, "w": 104, "h": 67}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 42, "y": 36, "w": 104, "h": 67}, "sourceSize": {"w": 278, "h": 134}, "pivot": {"x": 0.5, "y": 0.5}},
+        {"filename": "projectile_fire_loop_E_11", "frame": {"x": 716, "y": 73, "w": 101, "h": 66}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 43, "y": 36, "w": 101, "h": 66}, "sourceSize": {"w": 278, "h": 134}, "pivot": {"x": 0.5, "y": 0.5}}
+      ]
+    }
+  ],
+  "meta": {"app": "Synty Sprite Generator", "version": "0.3"}
+}

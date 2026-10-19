@@ -1,0 +1,36 @@
+{
+  "schema": "ssg-meta/1",
+  "generator": {
+    "name": "Synty Sprite Generator",
+    "version": "0.3",
+    "generatedAt": "2026-10-19T04:17:12.038Z"
+  },
+  "asset": {
+    "name": "SM_Env_GlowingOrb_05",
+    "pack": "POLYGON_Dungeon_Pack",
+    "kind": "fx",
+    "category": null
+  },
+  "blend": "add",
+  "frameWidth": 278,
+  "frameHeight": 134,
+  "fps": 24,
+  "pivot": {
+    "x": 139,
+    "y": 67
+  },
+  "pixelsPerMetre": 128,
+  "scale": {
+    "mode": "ppm",
+    "pixelsPerMetre": 128
+  },
+  "note": "Socket positions are pixels from the untrimmed frame top-left; for flipX animations use x = frameWidth - x.",
+  "clips": [
+    {
+      "name": "projectile_fire_loop",
+      "loop": true,
+      "frameCount": 12,
+      "events": []
+    }
+  ]
+}

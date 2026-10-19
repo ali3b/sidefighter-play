@@ -1,0 +1,36 @@
+{
+  "schema": "ssg-meta/1",
+  "generator": {
+    "name": "Synty Sprite Generator",
+    "version": "0.3",
+    "generatedAt": "2026-10-19T04:17:15.380Z"
+  },
+  "asset": {
+    "name": "FX_Sphere_Puff_01",
+    "pack": "POLYGON_Particle_FX",
+    "kind": "fx",
+    "category": null
+  },
+  "blend": "normal",
+  "frameWidth": 252,
+  "frameHeight": 82,
+  "fps": 24,
+  "pivot": {
+    "x": 126,
+    "y": 71
+  },
+  "pixelsPerMetre": 128,
+  "scale": {
+    "mode": "ppm",
+    "pixelsPerMetre": 128
+  },
+  "note": "Socket positions are pixels from the untrimmed frame top-left; for flipX animations use x = frameWidth - x.",
+  "clips": [
+    {
+      "name": "smoke_puffs",
+      "loop": false,
+      "frameCount": 15,
+      "events": []
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "anims": [
+    {"key": "spark_heavy/explosion_E", "frameRate": 24, "repeat": 0, "flipX": false, "frames": [{"key": "FX_Spark_01", "frame": "explosion_E_0"}, {"key": "FX_Spark_01", "frame": "explosion_E_1"}, {"key": "FX_Spark_01", "frame": "explosion_E_2"}, {"key": "FX_Spark_01", "frame": "explosion_E_3"}, {"key": "FX_Spark_01", "frame": "explosion_E_4"}, {"key": "FX_Spark_01", "frame": "explosion_E_5"}, {"key": "FX_Spark_01", "frame": "explosion_E_6"}, {"key": "FX_Spark_01", "frame": "explosion_E_7"}, {"key": "FX_Spark_01", "frame": "explosion_E_8"}]},
+    {"key": "spark_heavy/explosion_W", "frameRate": 24, "repeat": 0, "flipX": true, "frames": [{"key": "FX_Spark_01", "frame": "explosion_E_0"}, {"key": "FX_Spark_01", "frame": "explosion_E_1"}, {"key": "FX_Spark_01", "frame": "explosion_E_2"}, {"key": "FX_Spark_01", "frame": "explosion_E_3"}, {"key": "FX_Spark_01", "frame": "explosion_E_4"}, {"key": "FX_Spark_01", "frame": "explosion_E_5"}, {"key": "FX_Spark_01", "frame": "explosion_E_6"}, {"key": "FX_Spark_01", "frame": "explosion_E_7"}, {"key": "FX_Spark_01", "frame": "explosion_E_8"}]}
+  ]
+}

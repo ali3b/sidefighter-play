@@ -1,0 +1,22 @@
+{
+  "textures": [
+    {
+      "image": "FX_Spark_01_0.png",
+      "format": "RGBA8888",
+      "size": {"w": 693, "h": 83},
+      "scale": 1,
+      "frames": [
+        {"filename": "explosion_E_0", "frame": {"x": 675, "y": 1, "w": 12, "h": 11}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 62, "y": 56, "w": 12, "h": 11}, "sourceSize": {"w": 136, "h": 116}, "pivot": {"x": 0.5, "y": 0.53448}},
+        {"filename": "explosion_E_1", "frame": {"x": 622, "y": 1, "w": 49, "h": 49}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 44, "y": 37, "w": 49, "h": 49}, "sourceSize": {"w": 136, "h": 116}, "pivot": {"x": 0.5, "y": 0.53448}},
+        {"filename": "explosion_E_2", "frame": {"x": 545, "y": 1, "w": 73, "h": 51}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 34, "y": 22, "w": 73, "h": 51}, "sourceSize": {"w": 136, "h": 116}, "pivot": {"x": 0.5, "y": 0.53448}},
+        {"filename": "explosion_E_3", "frame": {"x": 451, "y": 1, "w": 90, "h": 57}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 28, "y": 15, "w": 90, "h": 57}, "sourceSize": {"w": 136, "h": 116}, "pivot": {"x": 0.5, "y": 0.53448}},
+        {"filename": "explosion_E_4", "frame": {"x": 346, "y": 1, "w": 101, "h": 65}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 24, "y": 9, "w": 101, "h": 65}, "sourceSize": {"w": 136, "h": 116}, "pivot": {"x": 0.5, "y": 0.53448}},
+        {"filename": "explosion_E_5", "frame": {"x": 234, "y": 1, "w": 108, "h": 71}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 21, "y": 8, "w": 108, "h": 71}, "sourceSize": {"w": 136, "h": 116}, "pivot": {"x": 0.5, "y": 0.53448}},
+        {"filename": "explosion_E_6", "frame": {"x": 118, "y": 1, "w": 112, "h": 75}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 20, "y": 6, "w": 112, "h": 75}, "sourceSize": {"w": 136, "h": 116}, "pivot": {"x": 0.5, "y": 0.53448}},
+        {"filename": "explosion_E_7", "frame": {"x": 1, "y": 1, "w": 113, "h": 81}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 19, "y": 4, "w": 113, "h": 81}, "sourceSize": {"w": 136, "h": 116}, "pivot": {"x": 0.5, "y": 0.53448}},
+        {"filename": "explosion_E_8", "frame": {"x": 691, "y": 1, "w": 1, "h": 1}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 0, "y": 0, "w": 1, "h": 1}, "sourceSize": {"w": 136, "h": 116}, "pivot": {"x": 0.5, "y": 0.53448}}
+      ]
+    }
+  ],
+  "meta": {"app": "Synty Sprite Generator", "version": "0.3"}
+}
