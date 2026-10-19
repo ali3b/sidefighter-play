@@ -1,0 +1,36 @@
+{
+  "schema": "ssg-meta/1",
+  "generator": {
+    "name": "Synty Sprite Generator",
+    "version": "0.3",
+    "generatedAt": "2026-10-19T11:31:41.185Z"
+  },
+  "asset": {
+    "name": "FX_Ring_Mesh",
+    "pack": "POLYGON_Dungeon_Pack",
+    "kind": "fx",
+    "category": null
+  },
+  "blend": "add",
+  "frameWidth": 348,
+  "frameHeight": 330,
+  "fps": 24,
+  "pivot": {
+    "x": 174,
+    "y": 165
+  },
+  "pixelsPerMetre": 128,
+  "scale": {
+    "mode": "ppm",
+    "pixelsPerMetre": 128
+  },
+  "note": "Socket positions are pixels from the untrimmed frame top-left; for flipX animations use x = frameWidth - x.",
+  "clips": [
+    {
+      "name": "projectile",
+      "loop": true,
+      "frameCount": 10,
+      "events": []
+    }
+  ]
+}

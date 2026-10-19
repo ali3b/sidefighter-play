@@ -1,0 +1,6 @@
+{
+  "anims": [
+    {"key": "blade_burst/impact_burst_E", "frameRate": 24, "repeat": 0, "flipX": false, "frames": [{"key": "FX_Star", "frame": "impact_burst_E_0"}, {"key": "FX_Star", "frame": "impact_burst_E_1"}, {"key": "FX_Star", "frame": "impact_burst_E_2"}, {"key": "FX_Star", "frame": "impact_burst_E_3"}, {"key": "FX_Star", "frame": "impact_burst_E_4"}, {"key": "FX_Star", "frame": "impact_burst_E_5"}, {"key": "FX_Star", "frame": "impact_burst_E_6"}, {"key": "FX_Star", "frame": "impact_burst_E_7"}, {"key": "FX_Star", "frame": "impact_burst_E_8"}]},
+    {"key": "blade_burst/impact_burst_W", "frameRate": 24, "repeat": 0, "flipX": true, "frames": [{"key": "FX_Star", "frame": "impact_burst_E_0"}, {"key": "FX_Star", "frame": "impact_burst_E_1"}, {"key": "FX_Star", "frame": "impact_burst_E_2"}, {"key": "FX_Star", "frame": "impact_burst_E_3"}, {"key": "FX_Star", "frame": "impact_burst_E_4"}, {"key": "FX_Star", "frame": "impact_burst_E_5"}, {"key": "FX_Star", "frame": "impact_burst_E_6"}, {"key": "FX_Star", "frame": "impact_burst_E_7"}, {"key": "FX_Star", "frame": "impact_burst_E_8"}]}
+  ]
+}

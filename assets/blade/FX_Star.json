@@ -1,0 +1,25 @@
+{
+  "textures": [
+    {
+      "image": "FX_Star_0.png",
+      "format": "RGBA8888",
+      "size": {"w": 3192, "h": 261},
+      "scale": 1,
+      "frames": [
+        {"filename": "pulse_E_0", "frame": {"x": 2947, "y": 1, "w": 244, "h": 232}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 149, "y": 18, "w": 244, "h": 232}, "sourceSize": {"w": 542, "h": 264}, "pivot": {"x": 0.5, "y": 0.55303}},
+        {"filename": "pulse_E_1", "frame": {"x": 2435, "y": 1, "w": 252, "h": 239}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 145, "y": 14, "w": 252, "h": 239}, "sourceSize": {"w": 542, "h": 264}, "pivot": {"x": 0.5, "y": 0.55303}},
+        {"filename": "pulse_E_2", "frame": {"x": 1911, "y": 1, "w": 258, "h": 246}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 142, "y": 10, "w": 258, "h": 246}, "sourceSize": {"w": 542, "h": 264}, "pivot": {"x": 0.5, "y": 0.55303}},
+        {"filename": "pulse_E_3", "frame": {"x": 1375, "y": 1, "w": 264, "h": 252}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 139, "y": 7, "w": 264, "h": 252}, "sourceSize": {"w": 542, "h": 264}, "pivot": {"x": 0.5, "y": 0.55303}},
+        {"filename": "pulse_E_4", "frame": {"x": 831, "y": 1, "w": 268, "h": 255}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 137, "y": 5, "w": 268, "h": 255}, "sourceSize": {"w": 542, "h": 264}, "pivot": {"x": 0.5, "y": 0.55303}},
+        {"filename": "pulse_E_5", "frame": {"x": 279, "y": 1, "w": 272, "h": 259}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 135, "y": 3, "w": 272, "h": 259}, "sourceSize": {"w": 542, "h": 264}, "pivot": {"x": 0.5, "y": 0.55303}},
+        {"filename": "pulse_E_6", "frame": {"x": 1, "y": 1, "w": 274, "h": 259}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 134, "y": 3, "w": 274, "h": 259}, "sourceSize": {"w": 542, "h": 264}, "pivot": {"x": 0.5, "y": 0.55303}},
+        {"filename": "pulse_E_7", "frame": {"x": 555, "y": 1, "w": 272, "h": 259}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 135, "y": 3, "w": 272, "h": 259}, "sourceSize": {"w": 542, "h": 264}, "pivot": {"x": 0.5, "y": 0.55303}},
+        {"filename": "pulse_E_8", "frame": {"x": 1103, "y": 1, "w": 268, "h": 255}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 137, "y": 5, "w": 268, "h": 255}, "sourceSize": {"w": 542, "h": 264}, "pivot": {"x": 0.5, "y": 0.55303}},
+        {"filename": "pulse_E_9", "frame": {"x": 1643, "y": 1, "w": 264, "h": 252}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 139, "y": 7, "w": 264, "h": 252}, "sourceSize": {"w": 542, "h": 264}, "pivot": {"x": 0.5, "y": 0.55303}},
+        {"filename": "pulse_E_10", "frame": {"x": 2173, "y": 1, "w": 258, "h": 246}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 142, "y": 10, "w": 258, "h": 246}, "sourceSize": {"w": 542, "h": 264}, "pivot": {"x": 0.5, "y": 0.55303}},
+        {"filename": "pulse_E_11", "frame": {"x": 2691, "y": 1, "w": 252, "h": 239}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 145, "y": 14, "w": 252, "h": 239}, "sourceSize": {"w": 542, "h": 264}, "pivot": {"x": 0.5, "y": 0.55303}}
+      ]
+    }
+  ],
+  "meta": {"app": "Synty Sprite Generator", "version": "0.3"}
+}

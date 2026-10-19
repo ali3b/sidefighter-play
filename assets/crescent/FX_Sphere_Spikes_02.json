@@ -1,0 +1,25 @@
+{
+  "textures": [
+    {
+      "image": "FX_Sphere_Spikes_02_0.png",
+      "format": "RGBA8888",
+      "size": {"w": 3788, "h": 460},
+      "scale": 1,
+      "frames": [
+        {"filename": "projectile_E_0", "frame": {"x": 1, "y": 1, "w": 375, "h": 227}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 214, "y": 3, "w": 375, "h": 227}, "sourceSize": {"w": 594, "h": 232}, "pivot": {"x": 0.5, "y": 0.65517}},
+        {"filename": "projectile_E_1", "frame": {"x": 380, "y": 1, "w": 375, "h": 227}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 214, "y": 3, "w": 375, "h": 227}, "sourceSize": {"w": 594, "h": 232}, "pivot": {"x": 0.5, "y": 0.65517}},
+        {"filename": "projectile_E_2", "frame": {"x": 759, "y": 1, "w": 375, "h": 227}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 214, "y": 3, "w": 375, "h": 227}, "sourceSize": {"w": 594, "h": 232}, "pivot": {"x": 0.5, "y": 0.65517}},
+        {"filename": "projectile_E_3", "frame": {"x": 1138, "y": 1, "w": 375, "h": 227}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 214, "y": 3, "w": 375, "h": 227}, "sourceSize": {"w": 594, "h": 232}, "pivot": {"x": 0.5, "y": 0.65517}},
+        {"filename": "projectile_E_4", "frame": {"x": 1517, "y": 1, "w": 375, "h": 227}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 214, "y": 3, "w": 375, "h": 227}, "sourceSize": {"w": 594, "h": 232}, "pivot": {"x": 0.5, "y": 0.65517}},
+        {"filename": "projectile_E_5", "frame": {"x": 1896, "y": 1, "w": 375, "h": 227}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 214, "y": 3, "w": 375, "h": 227}, "sourceSize": {"w": 594, "h": 232}, "pivot": {"x": 0.5, "y": 0.65517}},
+        {"filename": "projectile_E_6", "frame": {"x": 2275, "y": 1, "w": 375, "h": 227}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 214, "y": 3, "w": 375, "h": 227}, "sourceSize": {"w": 594, "h": 232}, "pivot": {"x": 0.5, "y": 0.65517}},
+        {"filename": "projectile_E_7", "frame": {"x": 2654, "y": 1, "w": 375, "h": 227}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 214, "y": 3, "w": 375, "h": 227}, "sourceSize": {"w": 594, "h": 232}, "pivot": {"x": 0.5, "y": 0.65517}},
+        {"filename": "projectile_E_8", "frame": {"x": 3033, "y": 1, "w": 375, "h": 227}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 214, "y": 3, "w": 375, "h": 227}, "sourceSize": {"w": 594, "h": 232}, "pivot": {"x": 0.5, "y": 0.65517}},
+        {"filename": "projectile_E_9", "frame": {"x": 3412, "y": 1, "w": 375, "h": 227}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 214, "y": 3, "w": 375, "h": 227}, "sourceSize": {"w": 594, "h": 232}, "pivot": {"x": 0.5, "y": 0.65517}},
+        {"filename": "projectile_E_10", "frame": {"x": 1, "y": 232, "w": 375, "h": 227}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 214, "y": 3, "w": 375, "h": 227}, "sourceSize": {"w": 594, "h": 232}, "pivot": {"x": 0.5, "y": 0.65517}},
+        {"filename": "projectile_E_11", "frame": {"x": 380, "y": 232, "w": 375, "h": 227}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 214, "y": 3, "w": 375, "h": 227}, "sourceSize": {"w": 594, "h": 232}, "pivot": {"x": 0.5, "y": 0.65517}}
+      ]
+    }
+  ],
+  "meta": {"app": "Synty Sprite Generator", "version": "0.3"}
+}

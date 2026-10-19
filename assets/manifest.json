@@ -29,7 +29,6 @@
         "martial_arts_punch_heavy",
         "martial_arts_kick_light",
         "martial_arts_kick_heavy",
-        "martial_arts_jump_kick",
         "martial_arts_uppercut",
         "martial_arts_special",
         "martial_arts_block",
@@ -43,6 +42,7 @@
         "martial_arts_swept",
         "martial_arts_crouch_punch",
         "martial_arts_crouch_kick",
+        "martial_arts_jump_kick",
         "martial_arts_ko"
       ],
       "clipInfo": {
@@ -100,7 +100,9 @@
           "events": [
             {
               "frame": 5,
-              "name": "hit"
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 6
             },
             {
               "frame": 6,
@@ -114,7 +116,9 @@
           "events": [
             {
               "frame": 7,
-              "name": "hit"
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 9
             },
             {
               "frame": 9,
@@ -128,7 +132,9 @@
           "events": [
             {
               "frame": 13,
-              "name": "hit"
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 15
             },
             {
               "frame": 15,
@@ -142,24 +148,12 @@
           "events": [
             {
               "frame": 8,
-              "name": "hit"
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 10
             },
             {
               "frame": 10,
-              "name": "hit_end"
-            }
-          ]
-        },
-        "martial_arts_jump_kick": {
-          "frames": 9,
-          "speedMps": null,
-          "events": [
-            {
-              "frame": 1,
-              "name": "hit"
-            },
-            {
-              "frame": 6,
               "name": "hit_end"
             }
           ]
@@ -170,7 +164,9 @@
           "events": [
             {
               "frame": 8,
-              "name": "hit"
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 11
             },
             {
               "frame": 11,
@@ -184,7 +180,9 @@
           "events": [
             {
               "frame": 24,
-              "name": "hit"
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 30
             },
             {
               "frame": 30,
@@ -263,7 +261,9 @@
           "events": [
             {
               "frame": 1,
-              "name": "hit"
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 4
             },
             {
               "frame": 4,
@@ -277,10 +277,28 @@
           "events": [
             {
               "frame": 5,
-              "name": "hit"
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 7
             },
             {
               "frame": 7,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_jump_kick": {
+          "frames": 6,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 1,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 5
+            },
+            {
+              "frame": 5,
               "name": "hit_end"
             }
           ]
@@ -322,7 +340,6 @@
         "martial_arts_punch_heavy",
         "martial_arts_kick_light",
         "martial_arts_kick_heavy",
-        "martial_arts_jump_kick",
         "martial_arts_uppercut",
         "martial_arts_special",
         "martial_arts_block",
@@ -336,6 +353,7 @@
         "martial_arts_swept",
         "martial_arts_crouch_punch",
         "martial_arts_crouch_kick",
+        "martial_arts_jump_kick",
         "martial_arts_ko"
       ],
       "clipInfo": {
@@ -393,7 +411,9 @@
           "events": [
             {
               "frame": 5,
-              "name": "hit"
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 6
             },
             {
               "frame": 6,
@@ -407,7 +427,9 @@
           "events": [
             {
               "frame": 7,
-              "name": "hit"
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 9
             },
             {
               "frame": 9,
@@ -421,7 +443,9 @@
           "events": [
             {
               "frame": 13,
-              "name": "hit"
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 15
             },
             {
               "frame": 15,
@@ -435,24 +459,12 @@
           "events": [
             {
               "frame": 8,
-              "name": "hit"
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 10
             },
             {
               "frame": 10,
-              "name": "hit_end"
-            }
-          ]
-        },
-        "martial_arts_jump_kick": {
-          "frames": 9,
-          "speedMps": null,
-          "events": [
-            {
-              "frame": 1,
-              "name": "hit"
-            },
-            {
-              "frame": 6,
               "name": "hit_end"
             }
           ]
@@ -463,7 +475,9 @@
           "events": [
             {
               "frame": 8,
-              "name": "hit"
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 11
             },
             {
               "frame": 11,
@@ -477,7 +491,9 @@
           "events": [
             {
               "frame": 24,
-              "name": "hit"
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 30
             },
             {
               "frame": 30,
@@ -556,7 +572,9 @@
           "events": [
             {
               "frame": 1,
-              "name": "hit"
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 4
             },
             {
               "frame": 4,
@@ -570,10 +588,28 @@
           "events": [
             {
               "frame": 5,
-              "name": "hit"
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 7
             },
             {
               "frame": 7,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_jump_kick": {
+          "frames": 6,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 1,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 5
+            },
+            {
+              "frame": 5,
               "name": "hit_end"
             }
           ]
@@ -750,6 +786,439 @@
         }
       },
       "validation": []
+    },
+    "merc_m_sp": {
+      "name": "merc_m_sp",
+      "asset": "POLYGON_BattleRoyale/Character_MercenaryMale_01",
+      "textureKey": "Character_MercenaryMale_01",
+      "atlas": "assets/merc_m_sp/Character_MercenaryMale_01.json",
+      "path": "assets/merc_m_sp/",
+      "anims": "assets/merc_m_sp/Character_MercenaryMale_01_anims.json",
+      "animPrefix": "merc_m_sp/",
+      "meta": "assets/merc_m_sp/Character_MercenaryMale_01.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        256,
+        268
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "MartialArts_Dash_Forward",
+        "MartialArts_Flip_Uppercut",
+        "MartialArts_Hurricane_Kick",
+        "MartialArts_Dash_Punch",
+        "MartialArts_Super_Ryker"
+      ],
+      "clipInfo": {
+        "MartialArts_Dash_Forward": {
+          "frames": 13,
+          "speedMps": null,
+          "events": []
+        },
+        "MartialArts_Flip_Uppercut": {
+          "frames": 12,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 3,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 5
+            },
+            {
+              "frame": 5,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "MartialArts_Hurricane_Kick": {
+          "frames": 23,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 1,
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 21
+            },
+            {
+              "frame": 21,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "MartialArts_Dash_Punch": {
+          "frames": 15,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 6,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 7
+            },
+            {
+              "frame": 7,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "MartialArts_Super_Ryker": {
+          "frames": 32,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 2,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 27
+            },
+            {
+              "frame": 27,
+              "name": "hit_end"
+            }
+          ]
+        }
+      },
+      "validation": []
+    },
+    "merc_f_sp": {
+      "name": "merc_f_sp",
+      "asset": "POLYGON_BattleRoyale/Character_MercenaryFemale_01",
+      "textureKey": "Character_MercenaryFemale_01",
+      "atlas": "assets/merc_f_sp/Character_MercenaryFemale_01.json",
+      "path": "assets/merc_f_sp/",
+      "anims": "assets/merc_f_sp/Character_MercenaryFemale_01_anims.json",
+      "animPrefix": "merc_f_sp/",
+      "meta": "assets/merc_f_sp/Character_MercenaryFemale_01.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        302,
+        356
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "MartialArts_Dash_Forward",
+        "MartialArts_Throw",
+        "MartialArts_Flip_Kick",
+        "MartialArts_Spin_Kick",
+        "MartialArts_Knee_Strike",
+        "MartialArts_Super_Sable"
+      ],
+      "clipInfo": {
+        "MartialArts_Dash_Forward": {
+          "frames": 13,
+          "speedMps": null,
+          "events": []
+        },
+        "MartialArts_Throw": {
+          "frames": 16,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 6,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 7
+            },
+            {
+              "frame": 7,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "MartialArts_Flip_Kick": {
+          "frames": 21,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 11,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 14
+            },
+            {
+              "frame": 14,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "MartialArts_Spin_Kick": {
+          "frames": 30,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 11,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 17
+            },
+            {
+              "frame": 17,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "MartialArts_Knee_Strike": {
+          "frames": 15,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 7
+            },
+            {
+              "frame": 7,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "MartialArts_Super_Sable": {
+          "frames": 24,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 16
+            },
+            {
+              "frame": 16,
+              "name": "hit_end"
+            }
+          ]
+        }
+      },
+      "validation": []
+    },
+    "blade": {
+      "name": "blade",
+      "asset": "POLYGON_Particle_FX/FX_Star",
+      "textureKey": "FX_Star",
+      "atlas": "assets/blade/FX_Star.json",
+      "path": "assets/blade/",
+      "anims": "assets/blade/FX_Star_anims.json",
+      "animPrefix": "blade/",
+      "meta": "assets/blade/FX_Star.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        542,
+        264
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "pulse"
+      ],
+      "clipInfo": {
+        "pulse": {
+          "frames": 12,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "blade_burst": {
+      "name": "blade_burst",
+      "asset": "POLYGON_Particle_FX/FX_Star",
+      "textureKey": "FX_Star",
+      "atlas": "assets/blade_burst/FX_Star.json",
+      "path": "assets/blade_burst/",
+      "anims": "assets/blade_burst/FX_Star_anims.json",
+      "animPrefix": "blade_burst/",
+      "meta": "assets/blade_burst/FX_Star.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        534,
+        122
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "impact_burst"
+      ],
+      "clipInfo": {
+        "impact_burst": {
+          "frames": 9,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 0,
+              "name": "impact"
+            }
+          ]
+        }
+      },
+      "validation": []
+    },
+    "dp_flame": {
+      "name": "dp_flame",
+      "asset": "POLYGON_Dungeon_Pack/SM_Env_GlowingOrb_05",
+      "textureKey": "Env_GlowingOrb_05",
+      "atlas": "assets/dp_flame/Env_GlowingOrb_05.json",
+      "path": "assets/dp_flame/",
+      "anims": "assets/dp_flame/Env_GlowingOrb_05_anims.json",
+      "animPrefix": "dp_flame/",
+      "meta": "assets/dp_flame/Env_GlowingOrb_05.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        142,
+        198
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "fire_loop"
+      ],
+      "clipInfo": {
+        "fire_loop": {
+          "frames": 17,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "whirl": {
+      "name": "whirl",
+      "asset": "POLYGON_Dungeon_Pack/FX_Ring_Mesh",
+      "textureKey": "FX_Ring_Mesh",
+      "atlas": "assets/whirl/FX_Ring_Mesh.json",
+      "path": "assets/whirl/",
+      "anims": "assets/whirl/FX_Ring_Mesh_anims.json",
+      "animPrefix": "whirl/",
+      "meta": "assets/whirl/FX_Ring_Mesh.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        348,
+        330
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "projectile"
+      ],
+      "clipInfo": {
+        "projectile": {
+          "frames": 10,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "crescent": {
+      "name": "crescent",
+      "asset": "POLYGON_Particle_FX/FX_Sphere_Spikes_02",
+      "textureKey": "FX_Sphere_Spikes_02",
+      "atlas": "assets/crescent/FX_Sphere_Spikes_02.json",
+      "path": "assets/crescent/",
+      "anims": "assets/crescent/FX_Sphere_Spikes_02_anims.json",
+      "animPrefix": "crescent/",
+      "meta": "assets/crescent/FX_Sphere_Spikes_02.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        594,
+        232
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "projectile"
+      ],
+      "clipInfo": {
+        "projectile": {
+          "frames": 12,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "stars": {
+      "name": "stars",
+      "asset": "POLYGON_Particle_FX/FX_Star_Pivot",
+      "textureKey": "FX_Star_Pivot",
+      "atlas": "assets/stars/FX_Star_Pivot.json",
+      "path": "assets/stars/",
+      "anims": "assets/stars/FX_Star_Pivot_anims.json",
+      "animPrefix": "stars/",
+      "meta": "assets/stars/FX_Star_Pivot.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        2728,
+        412
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "sparkle"
+      ],
+      "clipInfo": {
+        "sparkle": {
+          "frames": 19,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "super_burst": {
+      "name": "super_burst",
+      "asset": "POLYGON_Particle_FX/FX_Sphere_01",
+      "textureKey": "FX_Sphere_01",
+      "atlas": "assets/super_burst/FX_Sphere_01.json",
+      "path": "assets/super_burst/",
+      "anims": "assets/super_burst/FX_Sphere_01_anims.json",
+      "animPrefix": "super_burst/",
+      "meta": "assets/super_burst/FX_Sphere_01.meta.json",
+      "pixelsPerMetre": 128,
+      "frameSize": [
+        740,
+        564
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "explosion"
+      ],
+      "clipInfo": {
+        "explosion": {
+          "frames": 18,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 0,
+              "name": "impact"
+            }
+          ]
+        }
+      },
+      "validation": []
     }
   },
   "project": "Sidefighter",
@@ -758,5 +1227,5 @@
   "fps": 12,
   "generatedBy": "Synty Sprite Generator (ssg CLI)",
   "ppm": 128,
-  "builtAt": "2026-10-19T04:17:16.834Z"
+  "builtAt": "2026-10-19T12:09:46.089Z"
 }

@@ -1,0 +1,36 @@
+{
+  "schema": "ssg-meta/1",
+  "generator": {
+    "name": "Synty Sprite Generator",
+    "version": "0.3",
+    "generatedAt": "2026-10-19T11:31:46.513Z"
+  },
+  "asset": {
+    "name": "FX_Star_Pivot",
+    "pack": "POLYGON_Particle_FX",
+    "kind": "fx",
+    "category": null
+  },
+  "blend": "add",
+  "frameWidth": 2728,
+  "frameHeight": 412,
+  "fps": 24,
+  "pivot": {
+    "x": 1364,
+    "y": 226
+  },
+  "pixelsPerMetre": 128,
+  "scale": {
+    "mode": "ppm",
+    "pixelsPerMetre": 128
+  },
+  "note": "Socket positions are pixels from the untrimmed frame top-left; for flipX animations use x = frameWidth - x.",
+  "clips": [
+    {
+      "name": "sparkle",
+      "loop": true,
+      "frameCount": 19,
+      "events": []
+    }
+  ]
+}
