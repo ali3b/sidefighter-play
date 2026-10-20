@@ -2913,18 +2913,24 @@
       "meta": "assets/merc_m_card/Character_MercenaryMale_01.meta.json",
       "pixelsPerMetre": 240,
       "frameSize": [
-        324,
-        492
+        326,
+        598
       ],
       "dirs": [
         "S"
       ],
       "clips": [
-        "MartialArts_Idle"
+        "MartialArts_Idle",
+        "MartialArts_Victory"
       ],
       "clipInfo": {
         "MartialArts_Idle": {
-          "frames": 18,
+          "frames": 24,
+          "speedMps": null,
+          "events": []
+        },
+        "MartialArts_Victory": {
+          "frames": 3,
           "speedMps": null,
           "events": []
         }
@@ -2942,18 +2948,24 @@
       "meta": "assets/merc_f_card/Character_MercenaryFemale_01.meta.json",
       "pixelsPerMetre": 240,
       "frameSize": [
-        322,
-        496
+        406,
+        628
       ],
       "dirs": [
         "S"
       ],
       "clips": [
-        "MartialArts_Idle"
+        "MartialArts_Idle",
+        "MartialArts_Victory"
       ],
       "clipInfo": {
         "MartialArts_Idle": {
-          "frames": 18,
+          "frames": 24,
+          "speedMps": null,
+          "events": []
+        },
+        "MartialArts_Victory": {
+          "frames": 3,
           "speedMps": null,
           "events": []
         }
@@ -2971,18 +2983,24 @@
       "meta": "assets/lua_card/Character_SportyFemale_01.meta.json",
       "pixelsPerMetre": 240,
       "frameSize": [
-        460,
-        524
+        470,
+        662
       ],
       "dirs": [
         "S"
       ],
       "clips": [
-        "Capoeira_Idle"
+        "Capoeira_Idle",
+        "MartialArts_Victory"
       ],
       "clipInfo": {
         "Capoeira_Idle": {
-          "frames": 12,
+          "frames": 24,
+          "speedMps": null,
+          "events": []
+        },
+        "MartialArts_Victory": {
+          "frames": 3,
           "speedMps": null,
           "events": []
         }
@@ -3001,17 +3019,23 @@
       "pixelsPerMetre": 240,
       "frameSize": [
         352,
-        498
+        608
       ],
       "dirs": [
         "S"
       ],
       "clips": [
-        "MMA_Idle"
+        "MMA_Idle",
+        "MartialArts_Victory"
       ],
       "clipInfo": {
         "MMA_Idle": {
-          "frames": 18,
+          "frames": 24,
+          "speedMps": null,
+          "events": []
+        },
+        "MartialArts_Victory": {
+          "frames": 3,
           "speedMps": null,
           "events": []
         }
@@ -3030,17 +3054,23 @@
       "pixelsPerMetre": 240,
       "frameSize": [
         326,
-        522
+        600
       ],
       "dirs": [
         "S"
       ],
       "clips": [
-        "Brawler_Idle"
+        "Brawler_Idle",
+        "MartialArts_Victory"
       ],
       "clipInfo": {
         "Brawler_Idle": {
-          "frames": 20,
+          "frames": 24,
+          "speedMps": null,
+          "events": []
+        },
+        "MartialArts_Victory": {
+          "frames": 3,
           "speedMps": null,
           "events": []
         }
@@ -3058,18 +3088,24 @@
       "meta": "assets/duke_card/Character_Gangster.meta.json",
       "pixelsPerMetre": 240,
       "frameSize": [
-        386,
-        492
+        384,
+        618
       ],
       "dirs": [
         "S"
       ],
       "clips": [
-        "Boxer_Idle"
+        "Boxer_Idle",
+        "MartialArts_Victory"
       ],
       "clipInfo": {
         "Boxer_Idle": {
-          "frames": 17,
+          "frames": 24,
+          "speedMps": null,
+          "events": []
+        },
+        "MartialArts_Victory": {
+          "frames": 3,
           "speedMps": null,
           "events": []
         }
@@ -3140,6 +3176,479 @@
         }
       },
       "validation": []
+    },
+    "boss": {
+      "name": "boss",
+      "asset": "POLYGON_Dark_Fortress/SM_Chr_Behemoth_01",
+      "textureKey": "Chr_Behemoth_01",
+      "atlas": "assets/boss/Chr_Behemoth_01.json",
+      "path": "assets/boss/",
+      "anims": "assets/boss/Chr_Behemoth_01_anims.json",
+      "animPrefix": "boss/",
+      "meta": "assets/boss/Chr_Behemoth_01.meta.json",
+      "pixelsPerMetre": 166,
+      "frameSize": [
+        572,
+        464
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "martial_arts_walk_back",
+        "martial_arts_jump",
+        "martial_arts_crouch_idle",
+        "martial_arts_dash_back",
+        "martial_arts_punch_light",
+        "martial_arts_punch_heavy",
+        "martial_arts_kick_light",
+        "martial_arts_kick_heavy",
+        "martial_arts_uppercut",
+        "martial_arts_block",
+        "martial_arts_crouch_block",
+        "martial_arts_hit_head",
+        "martial_arts_hit_body",
+        "martial_arts_knockdown",
+        "martial_arts_get_up",
+        "martial_arts_swept",
+        "martial_arts_crouch_punch",
+        "martial_arts_crouch_kick",
+        "martial_arts_jump_kick",
+        "martial_arts_ko"
+      ],
+      "clipInfo": {
+        "martial_arts_walk_back": {
+          "frames": 10,
+          "speedMps": 0.6,
+          "events": [
+            {
+              "frame": 0,
+              "name": "footstep_l"
+            },
+            {
+              "frame": 6,
+              "name": "footstep_r"
+            }
+          ]
+        },
+        "martial_arts_jump": {
+          "frames": 28,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_crouch_idle": {
+          "frames": 30,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_dash_back": {
+          "frames": 11,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_punch_light": {
+          "frames": 22,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 6
+            },
+            {
+              "frame": 6,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_punch_heavy": {
+          "frames": 27,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 7,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 9
+            },
+            {
+              "frame": 9,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_kick_light": {
+          "frames": 27,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 13,
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 15
+            },
+            {
+              "frame": 15,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_kick_heavy": {
+          "frames": 21,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 8,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 10
+            },
+            {
+              "frame": 10,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_uppercut": {
+          "frames": 27,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 8,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 11
+            },
+            {
+              "frame": 11,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_block": {
+          "frames": 22,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "block"
+            }
+          ]
+        },
+        "martial_arts_crouch_block": {
+          "frames": 20,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "block"
+            }
+          ]
+        },
+        "martial_arts_hit_head": {
+          "frames": 16,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 3,
+              "name": "hurt"
+            }
+          ]
+        },
+        "martial_arts_hit_body": {
+          "frames": 15,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 2,
+              "name": "hurt"
+            }
+          ]
+        },
+        "martial_arts_knockdown": {
+          "frames": 27,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_get_up": {
+          "frames": 33,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_swept": {
+          "frames": 31,
+          "speedMps": null,
+          "events": []
+        },
+        "martial_arts_crouch_punch": {
+          "frames": 15,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 1,
+              "name": "hit",
+              "limb": "knee_r",
+              "endFrame": 4
+            },
+            {
+              "frame": 4,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_crouch_kick": {
+          "frames": 17,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 5,
+              "name": "hit",
+              "limb": "foot_r",
+              "endFrame": 7
+            },
+            {
+              "frame": 7,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_jump_kick": {
+          "frames": 6,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 1,
+              "name": "hit",
+              "limb": "foot_l",
+              "endFrame": 5
+            },
+            {
+              "frame": 5,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "martial_arts_ko": {
+          "frames": 32,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "boss_sp": {
+      "name": "boss_sp",
+      "asset": "POLYGON_Dark_Fortress/SM_Chr_Behemoth_01",
+      "textureKey": "Chr_Behemoth_01",
+      "atlas": "assets/boss_sp/Chr_Behemoth_01.json",
+      "path": "assets/boss_sp/",
+      "anims": "assets/boss_sp/Chr_Behemoth_01_anims.json",
+      "animPrefix": "boss_sp/",
+      "meta": "assets/boss_sp/Chr_Behemoth_01.meta.json",
+      "pixelsPerMetre": 166,
+      "frameSize": [
+        502,
+        598
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "Boss_Idle",
+        "Boss_Walk",
+        "Boss_Roar",
+        "Boss_Swipe",
+        "Boss_Jump_Smash",
+        "Boss_Flex",
+        "Boss_Death"
+      ],
+      "clipInfo": {
+        "Boss_Idle": {
+          "frames": 48,
+          "speedMps": null,
+          "events": []
+        },
+        "Boss_Walk": {
+          "frames": 17,
+          "speedMps": 1.31,
+          "events": [
+            {
+              "frame": 4,
+              "name": "footstep_l"
+            },
+            {
+              "frame": 12,
+              "name": "footstep_r"
+            }
+          ]
+        },
+        "Boss_Roar": {
+          "frames": 66,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 14,
+              "name": "roar"
+            }
+          ]
+        },
+        "Boss_Swipe": {
+          "frames": 23,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 4,
+              "name": "hit",
+              "limb": "hand_r",
+              "endFrame": 9
+            },
+            {
+              "frame": 9,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "Boss_Jump_Smash": {
+          "frames": 32,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 17,
+              "name": "hit",
+              "limb": "hand_l",
+              "endFrame": 19
+            },
+            {
+              "frame": 19,
+              "name": "hit_end"
+            }
+          ]
+        },
+        "Boss_Flex": {
+          "frames": 57,
+          "speedMps": null,
+          "events": []
+        },
+        "Boss_Death": {
+          "frames": 56,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 28,
+              "name": "dead"
+            }
+          ]
+        }
+      },
+      "validation": []
+    },
+    "boss_card": {
+      "name": "boss_card",
+      "asset": "POLYGON_Dark_Fortress/SM_Chr_Behemoth_01",
+      "textureKey": "Chr_Behemoth_01",
+      "atlas": "assets/boss_card/Chr_Behemoth_01.json",
+      "path": "assets/boss_card/",
+      "anims": "assets/boss_card/Chr_Behemoth_01_anims.json",
+      "animPrefix": "boss_card/",
+      "meta": "assets/boss_card/Chr_Behemoth_01.meta.json",
+      "pixelsPerMetre": 190,
+      "frameSize": [
+        394,
+        452
+      ],
+      "dirs": [
+        "S"
+      ],
+      "clips": [
+        "Boss_Idle",
+        "Boss_Flex"
+      ],
+      "clipInfo": {
+        "Boss_Idle": {
+          "frames": 24,
+          "speedMps": null,
+          "events": []
+        },
+        "Boss_Flex": {
+          "frames": 2,
+          "speedMps": null,
+          "events": []
+        }
+      },
+      "validation": []
+    },
+    "quake": {
+      "name": "quake",
+      "asset": "POLYGON_Particle_FX/FX_Sphere_01",
+      "textureKey": "FX_Sphere_01",
+      "atlas": "assets/quake/FX_Sphere_01.json",
+      "path": "assets/quake/",
+      "anims": "assets/quake/FX_Sphere_01_anims.json",
+      "animPrefix": "quake/",
+      "meta": "assets/quake/FX_Sphere_01.meta.json",
+      "pixelsPerMetre": 64,
+      "frameSize": [
+        274,
+        274
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "ring_shock"
+      ],
+      "clipInfo": {
+        "ring_shock": {
+          "frames": 13,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 0,
+              "name": "impact"
+            }
+          ]
+        }
+      },
+      "validation": []
+    },
+    "finisher_blast": {
+      "name": "finisher_blast",
+      "asset": "POLYGON_Particle_FX/FX_Sphere_01",
+      "textureKey": "FX_Sphere_01",
+      "atlas": "assets/finisher_blast/FX_Sphere_01.json",
+      "path": "assets/finisher_blast/",
+      "anims": "assets/finisher_blast/FX_Sphere_01_anims.json",
+      "animPrefix": "finisher_blast/",
+      "meta": "assets/finisher_blast/FX_Sphere_01.meta.json",
+      "pixelsPerMetre": 64,
+      "frameSize": [
+        712,
+        562
+      ],
+      "dirs": [
+        "E",
+        "W"
+      ],
+      "clips": [
+        "explosion"
+      ],
+      "clipInfo": {
+        "explosion": {
+          "frames": 25,
+          "speedMps": null,
+          "events": [
+            {
+              "frame": 0,
+              "name": "impact"
+            }
+          ]
+        }
+      },
+      "validation": []
     }
   },
   "project": "Sidefighter",
@@ -3148,5 +3657,5 @@
   "fps": 12,
   "generatedBy": "Synty Sprite Generator (ssg CLI)",
   "ppm": 128,
-  "builtAt": "2026-10-19T13:39:55.422Z"
+  "builtAt": "2026-10-20T09:01:52.044Z"
 }

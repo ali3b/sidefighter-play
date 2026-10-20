@@ -1,0 +1,38 @@
+{
+  "textures": [
+    {
+      "image": "FX_Sphere_01_0.png",
+      "format": "RGBA8888",
+      "size": {"w": 4087, "h": 1528},
+      "scale": 1,
+      "frames": [
+        {"filename": "explosion_E_0", "frame": {"x": 3179, "y": 828, "w": 80, "h": 80}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 316, "y": 264, "w": 80, "h": 80}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_1", "frame": {"x": 2451, "y": 1139, "w": 352, "h": 350}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 180, "y": 129, "w": 352, "h": 350}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_2", "frame": {"x": 1667, "y": 812, "w": 396, "h": 395}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 158, "y": 107, "w": 396, "h": 395}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_3", "frame": {"x": 2067, "y": 818, "w": 380, "h": 380}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 167, "y": 113, "w": 380, "h": 380}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_4", "frame": {"x": 2818, "y": 828, "w": 357, "h": 357}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 177, "y": 126, "w": 357, "h": 357}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_5", "frame": {"x": 2067, "y": 1202, "w": 338, "h": 325}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 179, "y": 142, "w": 338, "h": 325}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_6", "frame": {"x": 2451, "y": 828, "w": 363, "h": 307}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 159, "y": 133, "w": 363, "h": 307}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_7", "frame": {"x": 1102, "y": 911, "w": 395, "h": 332}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 141, "y": 116, "w": 395, "h": 332}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_8", "frame": {"x": 1667, "y": 453, "w": 428, "h": 355}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 125, "y": 99, "w": 428, "h": 355}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_9", "frame": {"x": 2222, "y": 439, "w": 447, "h": 375}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 114, "y": 83, "w": 447, "h": 375}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_10", "frame": {"x": 2747, "y": 432, "w": 475, "h": 392}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 99, "y": 69, "w": 475, "h": 392}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_11", "frame": {"x": 3267, "y": 423, "w": 487, "h": 406}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 92, "y": 57, "w": 487, "h": 406}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_12", "frame": {"x": 3267, "y": 1, "w": 504, "h": 418}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 80, "y": 46, "w": 504, "h": 418}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_13", "frame": {"x": 2747, "y": 1, "w": 516, "h": 427}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 76, "y": 37, "w": 516, "h": 427}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_14", "frame": {"x": 2222, "y": 1, "w": 521, "h": 434}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 73, "y": 30, "w": 521, "h": 434}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_15", "frame": {"x": 1, "y": 910, "w": 535, "h": 440}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 63, "y": 24, "w": 535, "h": 440}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_16", "frame": {"x": 557, "y": 456, "w": 542, "h": 444}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 64, "y": 20, "w": 542, "h": 444}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_17", "frame": {"x": 557, "y": 904, "w": 541, "h": 446}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 62, "y": 18, "w": 541, "h": 446}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_18", "frame": {"x": 1673, "y": 1, "w": 545, "h": 448}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 60, "y": 16, "w": 545, "h": 448}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_19", "frame": {"x": 1, "y": 1, "w": 556, "h": 448}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 54, "y": 16, "w": 556, "h": 448}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_20", "frame": {"x": 1119, "y": 1, "w": 550, "h": 447}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 58, "y": 17, "w": 550, "h": 447}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_21", "frame": {"x": 561, "y": 1, "w": 554, "h": 451}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 54, "y": 13, "w": 554, "h": 451}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_22", "frame": {"x": 1, "y": 453, "w": 552, "h": 453}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 55, "y": 11, "w": 552, "h": 453}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_23", "frame": {"x": 1119, "y": 452, "w": 544, "h": 455}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 61, "y": 9, "w": 544, "h": 455}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}},
+        {"filename": "explosion_E_24", "frame": {"x": 3758, "y": 423, "w": 328, "h": 300}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 220, "y": 63, "w": 328, "h": 300}, "sourceSize": {"w": 712, "h": 562}, "pivot": {"x": 0.5, "y": 0.54093}}
+      ]
+    }
+  ],
+  "meta": {"app": "Synty Sprite Generator", "version": "0.3"}
+}

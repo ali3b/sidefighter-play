@@ -1,0 +1,716 @@
+{
+  "generator": {
+    "name": "Synty Sprite Generator",
+    "version": "0.3",
+    "generatedAt": "2026-10-20T09:01:46.291Z"
+  },
+  "asset": {
+    "name": "FX_Sphere_01",
+    "pack": "POLYGON_Particle_FX",
+    "kind": "fx",
+    "category": null
+  },
+  "frameWidth": 712,
+  "frameHeight": 562,
+  "fps": 24,
+  "pivot": {
+    "x": 356,
+    "y": 304
+  },
+  "pixelsPerMetre": 64,
+  "scale": {
+    "mode": "ppm",
+    "pixelsPerMetre": 64
+  },
+  "blend": "add",
+  "view": {
+    "projection": "ortho",
+    "pitch": 0,
+    "fov": 30,
+    "directions": "2",
+    "basis": "world",
+    "mirror": true,
+    "order": "ccw-e",
+    "naming": "compass",
+    "scale": {
+      "mode": "ppm",
+      "ppm": 64
+    },
+    "frameWidth": 16,
+    "frameHeight": 16,
+    "fps": 24,
+    "padding": 2,
+    "quality": {
+      "supersample": 2,
+      "textureFilter": "nearest",
+      "shadow": "off",
+      "style": "clean",
+      "palette": "model",
+      "shadeSteps": 4,
+      "colorLevels": 6,
+      "outline": true,
+      "outlineColor": "#1a1418"
+    }
+  },
+  "pages": [
+    {
+      "index": 0,
+      "file": "FX_Sphere_01_0.png",
+      "width": 4087,
+      "height": 1528,
+      "clip": null,
+      "direction": null,
+      "layers": {}
+    }
+  ],
+  "layers": [],
+  "clips": [
+    {
+      "name": "explosion",
+      "loop": false,
+      "frameCount": 25,
+      "events": [
+        {
+          "frame": 0,
+          "name": "impact"
+        }
+      ]
+    }
+  ],
+  "directions": [
+    {
+      "name": "E",
+      "screenAngle": 0,
+      "worldAngle": 0,
+      "mirrorOf": null
+    },
+    {
+      "name": "W",
+      "screenAngle": 180,
+      "worldAngle": 180,
+      "mirrorOf": "E"
+    }
+  ],
+  "animations": [
+    {
+      "name": "finisher_blast/explosion_E",
+      "clip": "explosion",
+      "direction": "E",
+      "loop": false,
+      "fps": 24,
+      "flipX": false,
+      "frames": [
+        {
+          "page": 0,
+          "x": 3179,
+          "y": 828,
+          "w": 80,
+          "h": 80,
+          "trimX": 316,
+          "trimY": 264,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2451,
+          "y": 1139,
+          "w": 352,
+          "h": 350,
+          "trimX": 180,
+          "trimY": 129,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1667,
+          "y": 812,
+          "w": 396,
+          "h": 395,
+          "trimX": 158,
+          "trimY": 107,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2067,
+          "y": 818,
+          "w": 380,
+          "h": 380,
+          "trimX": 167,
+          "trimY": 113,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2818,
+          "y": 828,
+          "w": 357,
+          "h": 357,
+          "trimX": 177,
+          "trimY": 126,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2067,
+          "y": 1202,
+          "w": 338,
+          "h": 325,
+          "trimX": 179,
+          "trimY": 142,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2451,
+          "y": 828,
+          "w": 363,
+          "h": 307,
+          "trimX": 159,
+          "trimY": 133,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1102,
+          "y": 911,
+          "w": 395,
+          "h": 332,
+          "trimX": 141,
+          "trimY": 116,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1667,
+          "y": 453,
+          "w": 428,
+          "h": 355,
+          "trimX": 125,
+          "trimY": 99,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2222,
+          "y": 439,
+          "w": 447,
+          "h": 375,
+          "trimX": 114,
+          "trimY": 83,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2747,
+          "y": 432,
+          "w": 475,
+          "h": 392,
+          "trimX": 99,
+          "trimY": 69,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 3267,
+          "y": 423,
+          "w": 487,
+          "h": 406,
+          "trimX": 92,
+          "trimY": 57,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 3267,
+          "y": 1,
+          "w": 504,
+          "h": 418,
+          "trimX": 80,
+          "trimY": 46,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2747,
+          "y": 1,
+          "w": 516,
+          "h": 427,
+          "trimX": 76,
+          "trimY": 37,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2222,
+          "y": 1,
+          "w": 521,
+          "h": 434,
+          "trimX": 73,
+          "trimY": 30,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1,
+          "y": 910,
+          "w": 535,
+          "h": 440,
+          "trimX": 63,
+          "trimY": 24,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 557,
+          "y": 456,
+          "w": 542,
+          "h": 444,
+          "trimX": 64,
+          "trimY": 20,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 557,
+          "y": 904,
+          "w": 541,
+          "h": 446,
+          "trimX": 62,
+          "trimY": 18,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1673,
+          "y": 1,
+          "w": 545,
+          "h": 448,
+          "trimX": 60,
+          "trimY": 16,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1,
+          "y": 1,
+          "w": 556,
+          "h": 448,
+          "trimX": 54,
+          "trimY": 16,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1119,
+          "y": 1,
+          "w": 550,
+          "h": 447,
+          "trimX": 58,
+          "trimY": 17,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 561,
+          "y": 1,
+          "w": 554,
+          "h": 451,
+          "trimX": 54,
+          "trimY": 13,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1,
+          "y": 453,
+          "w": 552,
+          "h": 453,
+          "trimX": 55,
+          "trimY": 11,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1119,
+          "y": 452,
+          "w": 544,
+          "h": 455,
+          "trimX": 61,
+          "trimY": 9,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 3758,
+          "y": 423,
+          "w": 328,
+          "h": 300,
+          "trimX": 220,
+          "trimY": 63,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        }
+      ]
+    },
+    {
+      "name": "finisher_blast/explosion_W",
+      "clip": "explosion",
+      "direction": "W",
+      "loop": false,
+      "fps": 24,
+      "flipX": true,
+      "frames": [
+        {
+          "page": 0,
+          "x": 3179,
+          "y": 828,
+          "w": 80,
+          "h": 80,
+          "trimX": 316,
+          "trimY": 264,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2451,
+          "y": 1139,
+          "w": 352,
+          "h": 350,
+          "trimX": 180,
+          "trimY": 129,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1667,
+          "y": 812,
+          "w": 396,
+          "h": 395,
+          "trimX": 158,
+          "trimY": 107,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2067,
+          "y": 818,
+          "w": 380,
+          "h": 380,
+          "trimX": 167,
+          "trimY": 113,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2818,
+          "y": 828,
+          "w": 357,
+          "h": 357,
+          "trimX": 177,
+          "trimY": 126,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2067,
+          "y": 1202,
+          "w": 338,
+          "h": 325,
+          "trimX": 179,
+          "trimY": 142,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2451,
+          "y": 828,
+          "w": 363,
+          "h": 307,
+          "trimX": 159,
+          "trimY": 133,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1102,
+          "y": 911,
+          "w": 395,
+          "h": 332,
+          "trimX": 141,
+          "trimY": 116,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1667,
+          "y": 453,
+          "w": 428,
+          "h": 355,
+          "trimX": 125,
+          "trimY": 99,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2222,
+          "y": 439,
+          "w": 447,
+          "h": 375,
+          "trimX": 114,
+          "trimY": 83,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2747,
+          "y": 432,
+          "w": 475,
+          "h": 392,
+          "trimX": 99,
+          "trimY": 69,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 3267,
+          "y": 423,
+          "w": 487,
+          "h": 406,
+          "trimX": 92,
+          "trimY": 57,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 3267,
+          "y": 1,
+          "w": 504,
+          "h": 418,
+          "trimX": 80,
+          "trimY": 46,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2747,
+          "y": 1,
+          "w": 516,
+          "h": 427,
+          "trimX": 76,
+          "trimY": 37,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 2222,
+          "y": 1,
+          "w": 521,
+          "h": 434,
+          "trimX": 73,
+          "trimY": 30,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1,
+          "y": 910,
+          "w": 535,
+          "h": 440,
+          "trimX": 63,
+          "trimY": 24,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 557,
+          "y": 456,
+          "w": 542,
+          "h": 444,
+          "trimX": 64,
+          "trimY": 20,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 557,
+          "y": 904,
+          "w": 541,
+          "h": 446,
+          "trimX": 62,
+          "trimY": 18,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1673,
+          "y": 1,
+          "w": 545,
+          "h": 448,
+          "trimX": 60,
+          "trimY": 16,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1,
+          "y": 1,
+          "w": 556,
+          "h": 448,
+          "trimX": 54,
+          "trimY": 16,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1119,
+          "y": 1,
+          "w": 550,
+          "h": 447,
+          "trimX": 58,
+          "trimY": 17,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 561,
+          "y": 1,
+          "w": 554,
+          "h": 451,
+          "trimX": 54,
+          "trimY": 13,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1,
+          "y": 453,
+          "w": 552,
+          "h": 453,
+          "trimX": 55,
+          "trimY": 11,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 1119,
+          "y": 452,
+          "w": 544,
+          "h": 455,
+          "trimX": 61,
+          "trimY": 9,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        },
+        {
+          "page": 0,
+          "x": 3758,
+          "y": 423,
+          "w": 328,
+          "h": 300,
+          "trimX": 220,
+          "trimY": 63,
+          "sourceW": 712,
+          "sourceH": 562,
+          "durationMs": 41.666666666666664
+        }
+      ]
+    }
+  ]
+}

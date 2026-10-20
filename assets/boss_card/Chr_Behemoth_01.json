@@ -1,0 +1,39 @@
+{
+  "textures": [
+    {
+      "image": "Chr_Behemoth_01_0.png",
+      "format": "RGBA8888",
+      "size": {"w": 1162, "h": 3054},
+      "scale": 1,
+      "frames": [
+        {"filename": "Boss_Idle_S_0", "frame": {"x": 809, "y": 302, "w": 263, "h": 295}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 67, "y": 106, "w": 263, "h": 295}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_1", "frame": {"x": 898, "y": 1, "w": 263, "h": 295}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 67, "y": 106, "w": 263, "h": 295}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_2", "frame": {"x": 541, "y": 618, "w": 263, "h": 296}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 67, "y": 105, "w": 263, "h": 296}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_3", "frame": {"x": 583, "y": 918, "w": 263, "h": 296}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 67, "y": 105, "w": 263, "h": 296}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_4", "frame": {"x": 631, "y": 1, "w": 263, "h": 297}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 67, "y": 104, "w": 263, "h": 297}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_5", "frame": {"x": 539, "y": 1244, "w": 264, "h": 299}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 67, "y": 102, "w": 264, "h": 299}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_6", "frame": {"x": 314, "y": 941, "w": 265, "h": 299}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 101, "w": 265, "h": 299}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_7", "frame": {"x": 271, "y": 1812, "w": 265, "h": 301}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 99, "w": 265, "h": 301}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_8", "frame": {"x": 270, "y": 2436, "w": 265, "h": 303}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 97, "w": 265, "h": 303}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_9", "frame": {"x": 270, "y": 2128, "w": 265, "h": 304}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 96, "w": 265, "h": 304}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_10", "frame": {"x": 1, "y": 2128, "w": 265, "h": 306}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 94, "w": 265, "h": 306}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_11", "frame": {"x": 1, "y": 2438, "w": 265, "h": 306}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 94, "w": 265, "h": 306}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_12", "frame": {"x": 1, "y": 1817, "w": 266, "h": 307}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 93, "w": 266, "h": 307}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_13", "frame": {"x": 1, "y": 1505, "w": 266, "h": 308}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 92, "w": 266, "h": 308}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_14", "frame": {"x": 271, "y": 315, "w": 266, "h": 309}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 91, "w": 266, "h": 309}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_15", "frame": {"x": 361, "y": 1, "w": 266, "h": 310}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 90, "w": 266, "h": 310}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_16", "frame": {"x": 1, "y": 291, "w": 266, "h": 310}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 90, "w": 266, "h": 310}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_17", "frame": {"x": 1, "y": 605, "w": 266, "h": 310}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 90, "w": 266, "h": 310}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_18", "frame": {"x": 1, "y": 919, "w": 266, "h": 310}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 90, "w": 266, "h": 310}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_19", "frame": {"x": 271, "y": 628, "w": 266, "h": 309}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 91, "w": 266, "h": 309}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_20", "frame": {"x": 1, "y": 2748, "w": 266, "h": 305}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 66, "y": 95, "w": 266, "h": 305}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_21", "frame": {"x": 271, "y": 1505, "w": 264, "h": 303}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 67, "y": 98, "w": 264, "h": 303}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_22", "frame": {"x": 541, "y": 315, "w": 264, "h": 299}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 67, "y": 102, "w": 264, "h": 299}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Idle_S_23", "frame": {"x": 808, "y": 618, "w": 263, "h": 296}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 67, "y": 105, "w": 263, "h": 296}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Flex_S_0", "frame": {"x": 1, "y": 1, "w": 356, "h": 286}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 24, "y": 119, "w": 356, "h": 286}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}},
+        {"filename": "Boss_Flex_S_1", "frame": {"x": 1, "y": 1233, "w": 309, "h": 268}, "rotated": false, "trimmed": true, "spriteSourceSize": {"x": 47, "y": 138, "w": 309, "h": 268}, "sourceSize": {"w": 394, "h": 452}, "pivot": {"x": 0.5, "y": 0.84292}}
+      ]
+    }
+  ],
+  "meta": {"app": "Synty Sprite Generator", "version": "0.3"}
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "ssg-meta/1",
+  "generator": {
+    "name": "Synty Sprite Generator",
+    "version": "0.3",
+    "generatedAt": "2026-10-20T09:01:46.291Z"
+  },
+  "asset": {
+    "name": "FX_Sphere_01",
+    "pack": "POLYGON_Particle_FX",
+    "kind": "fx",
+    "category": null
+  },
+  "blend": "add",
+  "frameWidth": 712,
+  "frameHeight": 562,
+  "fps": 24,
+  "pivot": {
+    "x": 356,
+    "y": 304
+  },
+  "pixelsPerMetre": 64,
+  "scale": {
+    "mode": "ppm",
+    "pixelsPerMetre": 64
+  },
+  "note": "Socket positions are pixels from the untrimmed frame top-left; for flipX animations use x = frameWidth - x.",
+  "clips": [
+    {
+      "name": "explosion",
+      "loop": false,
+      "frameCount": 25,
+      "events": [
+        {
+          "frame": 0,
+          "name": "impact"
+        }
+      ]
+    }
+  ]
+}
